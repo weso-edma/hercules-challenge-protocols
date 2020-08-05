@@ -13,6 +13,8 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 logging.info("Starting logger")
 
+RANDOM_SEED = 42
+
 DATA_DIR = os.path.join(module_path, 'data')
 PROTOCOLS_DIR = os.path.join(DATA_DIR, 'protocols')
 RESULTS_DIR = os.path.join(module_path, 'results')
