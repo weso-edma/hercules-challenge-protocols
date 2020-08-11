@@ -1,701 +1,701 @@
 pr_id,title,topics_from_ner
-e100,Scratch Wound Healing Assay,"interaction science, 0.4115
-communication medium, 0.3496
-communication, 0.3333
-media history, 0.3173
-cytology, 0.3173
-science, 0.3050
-communication studies, 0.3007"
-e1029,ADCC Assay Protocol,"chemical compound, 0.2106
-family of protein complexes, 0.2093
-glucose, 0.2003
-blood plasma, 0.1994
-antibody, 0.1979
+e100,Scratch Wound Healing Assay,"chemical substance, 0.1976
+software, 0.1961
+product, 0.1958
+chemistry, 0.1955
+science, 0.1904
+physics, 0.1885
+research, 0.1868"
+e1029,ADCC Assay Protocol,"biological process, 0.2150
+process, 0.2011
+carbon dioxide transmembrane transport, 0.1961
+death, 0.1951
+response to carbon dioxide, 0.1925
+cellular response to carbon dioxide, 0.1925
+carbon dioxide transport, 0.1924"
+e1072,Catalase Activity Assay in Candida glabrata,"protein, 0.2173
+chemistry, 0.2095
+chemical compound, 0.2082
+chemical substance, 0.2033
+cell type, 0.1970
+biopolymer, 0.1970
+establishment of protein localization to spindle pole body, 0.1967"
+e1077,RNA Isolation and Northern Blot Analysis,"biological process, 0.1943
+process, 0.1927
+chemical compound, 0.1922
+chemical substance, 0.1909
+chemistry, 0.1904
+science, 0.1868
+research, 0.1832"
+e1090,Flow Cytometric Analysis of Autophagic Activity with Cyto-ID Staining in Primary Cells,"process, 0.1978
+chemical compound, 0.1975
+biological process, 0.1927
+glucose, 0.1925
+concept, 0.1898
+interaction science, 0.1878
+technique, 0.1862"
+e1136,Preparation of Parasite Protein Extracts and Western Blot Analysis,"protein, 0.1980
+chemical substance, 0.1965
+chemical compound, 0.1924
+materials science, 0.1909
+biopolymer, 0.1882
+product, 0.1879
+technology, 0.1847"
+e1180,Macrophage Inflammatory Assay,"protein, 0.1793
+group or class of proteins, 0.1781
+cell type, 0.1776
+pharmacology, 0.1765
+psychology, 0.1757
+area of mathematics, 0.1733
+cell, 0.1715"
+e1183,Wnt Reporter Activity Assay,"chemical compound, 0.1532
+carbon dioxide, 0.1493
+cell type, 0.1452
+gas, 0.1415
+cell, 0.1404
+gel, 0.1386
+protein, 0.1375"
+e122,Intracellular Cytokine (INF-gamma) Staining Assay,"cell type, 0.2071
+cell, 0.2037
+cytology, 0.1860
+chemical compound, 0.1822
+protein, 0.1818
+anatomical structure, 0.1814
+chemical substance, 0.1804"
+e1235,Gentamicin Protection Assay to Determine Bacterial Survival within Macrophages,"chemical compound, 0.2084
+L-Glutamine, 0.1918
+cell type, 0.1892
+carbon dioxide, 0.1866
+water, 0.1866
+ethanol, 0.1836
+dihydrogen chalcogenide, 0.1807"
+e1236,Dimethylmethylene Blue Assay (DMMB),"glycine, 0.3254
+chemical compound, 0.3068
+amino acid, 0.2991
+medication, 0.2868
+glycosaminoglycan, 0.2855
+dihydrogen chalcogenide, 0.2855
+carbon, 0.2829"
+e1287,Fractionation by Ultracentrifugation of Gram Negative Cytoplasmic and Membrane Proteins,"protein, 0.1946
+anthropology, 0.1862
+chemical compound, 0.1821
+chemical substance, 0.1815
+biopolymer, 0.1812
+pharmacology, 0.1809
+mathematical analysis, 0.1771"
+e1289,Analysis of Intestinal Permeability in Mice,"chemical compound, 0.1775
+anatomical structure, 0.1770
+ethanol, 0.1711
+biomedical measurand, 0.1700
+chemical element, 0.1653
+mathematical analysis, 0.1626
+chemistry, 0.1625"
+e1295,Infectious Focus Assays and Multiplicity of Infection (MOI) Calculations for Alpha-herpesviruses,"cell, 0.1656
+cytology, 0.1621
+automation, 0.1582
+cell type, 0.1582
+interaction science, 0.1572
+media history, 0.1565
+chemical substance, 0.1560"
+e1308,Minimal Inhibitory Concentration (MIC) Assay for Acinetobacter baumannii,"visual perception, 0.1585
+psychology terminology, 0.1568
+behavior, 0.1556
+biological process, 0.1537
+eye, 0.1492
+occupation, 0.1481
+profession, 0.1475"
+e1374,Analysis of Protein Stability by the Cycloheximide Chase Assay,"protein, 0.2458
+chemical compound, 0.2368
+biological process, 0.2272
+specialty, 0.2244
+establishment of protein localization to spindle pole body, 0.2234
+establishment of protein localization to mitotic spindle pole body, 0.2233
+microtubule polymerization based protein transport to cell tip cortex, 0.2233"
+e1428,RNA Isolation from Synechocystis,"process, 0.1874
+biological process, 0.1849
+occurrence, 0.1765
+chemical compound, 0.1751
+technique, 0.1748
+cell, 0.1731
+RNA, 0.1728"
+e144,Mouse Embryonic Stem Cell Differentiation to Hematopoietic Precursors,"chemical compound, 0.1977
+physics, 0.1898
+philosophy, 0.1872
+cell type, 0.1870
+limnology, 0.1869
+cell biology, 0.1858
+anatomical structure, 0.1847"
+e1467,Measurement of Chlorophyll a and Carotenoids Concentration in Cyanobacteria,"chemical compound, 0.1939
+photon, 0.1914
+type of quantum particle, 0.1909
+methanol, 0.1853
+sociology, 0.1825
+mathematical analysis, 0.1821
+labour economics, 0.1818"
+e1471,Murine Liver Myeloid Cell Isolation Protocol,"biology, 0.2100
+biological process, 0.2031
+life, 0.2021
+physics, 0.2014
+science, 0.2009
+chemical substance, 0.2008
+cell biology, 0.1989"
+e1569,Isolation of Rhizosphere Bacterial Communities from Soil,"construction, 0.1798
+agriculture, 0.1785
+biology, 0.1783
+science, 0.1778
+intentional human action, 0.1761
+economic branch, 0.1746
+food science, 0.1742"
+e16,Spot Assay for Yeast,"chemical compound, 0.1738
+cell type, 0.1652
+ethanol, 0.1641
+cell, 0.1602
+water, 0.1590
+dihydrogen chalcogenide, 0.1545
+cytology, 0.1525"
+e162,Alcian Blue – Alizarin Red Staining of Mouse Skeleton,"chemical substance, 0.2051
+chemical compound, 0.2023
+medication, 0.2015
+chemistry, 0.1974
+ethanol, 0.1940
+acetic acid, 0.1892
+metabolite, 0.1852"
+e172,"Culture, Differentiation and Transfection of C2C12 Myoblasts","cell, 0.1873
+cell line, 0.1750
+cell biology, 0.1746
+cytology, 0.1727
+cell type, 0.1713
+biological component, 0.1663
+unit, 0.1663"
+e1797,Preparation and Immunofluorescence Staining of the Trachea in Drosophila Larvae and Pupae,"chemical substance, 0.1984
+physics, 0.1964
+philosophy, 0.1963
+protein, 0.1960
+anatomical structure, 0.1935
+behavioural sciences, 0.1923
+profession, 0.1921"
+e186,Analysis of Mouse Liver Glycogen Content,"chemical compound, 0.2246
+chemical substance, 0.2103
+water, 0.2026
+carbon dioxide, 0.2025
+glucose, 0.2005
+medication, 0.1977
+NADPH, 0.1948"
+e187,Clonogenic Assay,"chemistry, 0.1967
+interaction science, 0.1948
+communication medium, 0.1932
+pharmacology, 0.1926
+physics, 0.1906
+media history, 0.1897
+chemical substance, 0.1887"
+e191,c-Fos and Arc Immunohistochemistry on Rat Cerebellum,"chemical substance, 0.2014
+chemistry, 0.2008
+anatomical structure, 0.1964
+chemical compound, 0.1954
+product, 0.1908
+protein, 0.1894
+neuroscience, 0.1880"
+e1912,BODIPY 493/503 Staining of Neutral Lipid Droplets for Microscopy and Quantification by Flow Cytometry,"chemistry, 0.2110
+chemical compound, 0.2047
+L-Glutamine, 0.1942
+science, 0.1909
+software, 0.1883
+biological process, 0.1860
+chemical substance, 0.1860"
+e195,Propidium Iodide Staining of Cells for FACS Analysis,"chemical compound, 0.2323
+ethanol, 0.2308
+DNA, 0.2275
+biological process, 0.2251
+chemical substance, 0.2174
+DNA transport, 0.2174
+DNA metabolic process, 0.2159"
+e1984,Sulforhodamine B (SRB) Assay in Cell Culture to Investigate Cell Proliferation,"biological process, 0.2168
+process, 0.2037
+life, 0.1966
+carbon dioxide transmembrane transport, 0.1939
+response to carbon dioxide, 0.1938
+cellular response to carbon dioxide, 0.1938
+carbon dioxide transport, 0.1937"
+e2045,Vascular Smooth Muscle Cell Isolation and Culture from Mouse Aorta,"chemical substance, 0.2043
+chemical compound, 0.2019
+protein, 0.1988
 cell type, 0.1946
-blood, 0.1941"
-e1072,Catalase Activity Assay in Candida glabrata,"chemical compound, 0.2906
-chemistry, 0.2768
-protein, 0.2684
-chemical substance, 0.2614
-ethanol, 0.2610
-hydrogen peroxide, 0.2547
-ribonucleoprotein, 0.2421"
-e1077,RNA Isolation and Northern Blot Analysis,"ribonucleoprotein, 0.1885
-cellular component, 0.1820
-cell, 0.1815
-ribonucleoprotein granule, 0.1814
-chemical compound, 0.1799
-RNA, 0.1794
-cell type, 0.1791"
-e1090,Flow Cytometric Analysis of Autophagic Activity with Cyto-ID Staining in Primary Cells,"chemical compound, 0.2578
-glucose, 0.2460
-carbon dioxide, 0.2280
-biological process, 0.2262
-sirolimus, 0.2244
-sucrose catabolic process via 3'-ketosucrose, 0.2194
-glucose catabolic process to pyruvate, 0.2194"
-e1136,Preparation of Parasite Protein Extracts and Western Blot Analysis,"protein, 0.2217
-chemical substance, 0.2178
-chemical compound, 0.2115
-biopolymer, 0.2073
-second-order metaclass, 0.2002
-cell biology, 0.1994
-area studies, 0.1991"
-e1180,Macrophage Inflammatory Assay,"protein, 0.2054
-Tumor necrosis factor, 0.1998
-version, edition, or translation, 0.1865
-group or class of proteins, 0.1862
-membrane proteins, 0.1855
-Toll-like receptor, 0.1791
-chapter, 0.1765"
-e1183,Wnt Reporter Activity Assay,"growth medium, 0.4198
-gel, 0.3864
-chemical compound, 0.3617
-reagent, 0.3579
-chemical substance, 0.3238
-laboratory equipment, 0.3148
-liquid, 0.3148"
-e122,Intracellular Cytokine (INF-gamma) Staining Assay,"chemical substance, 0.3132
-cell type, 0.2969
-ice, 0.2938
-cell, 0.2767
-water, 0.2478
-anatomical structure, 0.2446
-solid, 0.2415"
-e1235,Gentamicin Protection Assay to Determine Bacterial Survival within Macrophages,"chemical compound, 0.2643
-ethanol, 0.2448
-carbon dioxide, 0.2403
-cell type, 0.2276
-urethanase activity, 0.2204
-medication, 0.2195
-carbon dioxide transmembrane transport, 0.2151"
-e1236,Dimethylmethylene Blue Assay (DMMB),"dihydrogen chalcogenide, 0.3611
-water, 0.3549
-polysaccharides, 0.3490
-hydrogen, 0.3432
-oxide, 0.3388
-oxygen, 0.3355
-glycosaminoglycan, 0.3260"
-e1287,Fractionation by Ultracentrifugation of Gram Negative Cytoplasmic and Membrane Proteins,"protein, 0.3698
-biopolymer, 0.3111
-ribonucleoprotein, 0.3046
-polyamide, 0.2987
-nutrient, 0.2957
-chemical compound, 0.2905
-Dynamin related protein 1 Dmel_CG3210, 0.2891"
-e1289,Analysis of Intestinal Permeability in Mice,"product, 0.2964
-animal product, 0.2946
-blood, 0.2878
-computer hardware, 0.2705
-medical device, 0.2463
-mouse, 0.2426
-organism substance, 0.2329"
-e1295,Infectious Focus Assays and Multiplicity of Infection (MOI) Calculations for Alpha-herpesviruses,"cell, 0.1810
-chemical compound, 0.1785
-cell type, 0.1764
-carbon dioxide, 0.1740
-taxon, 0.1683
-unit, 0.1641
-virus, 0.1630"
-e1308,Minimal Inhibitory Concentration (MIC) Assay for Acinetobacter baumannii,"resistance movement, 0.2994
-organization, 0.2961
-behavior, 0.2834
-magazine, 0.2775
-activity, 0.2585
-periodical, 0.2420
-communication medium, 0.2409"
-e1374,Analysis of Protein Stability by the Cycloheximide Chase Assay,"cytology, 0.2422
-cell, 0.2389
-interaction science, 0.2357
-cell type, 0.2222
-media history, 0.2109
-communication medium, 0.2063
-communication, 0.2023"
-e1428,RNA Isolation from Synechocystis,"DNA, 0.2055
-ribonucleoprotein, 0.2038
-RNA, 0.2028
+anatomical structure, 0.1945
+physics, 0.1944
+group or class of proteins, 0.1931"
+e212,In vitro Protein Kinase Assay Using Yeast Sch9,"chemical compound, 0.1956
+protein, 0.1874
+cell type, 0.1853
+sodium lauryl sulfate, 0.1816
+sirolimus, 0.1804
+gel, 0.1758
+phosphorus, 0.1749"
+e220,Soft–Agar colony Formation Assay,"chemical substance, 0.2023
+product, 0.1955
+manifestation, 0.1853
+chemical compound, 0.1847
+solvent, 0.1813
+medication, 0.1807
+continuous medium, 0.1800"
+e2273,In vitro Assays for Measuring Endothelial Permeability by Transwells and Electrical Impedance Systems,"chemistry, 0.2084
+materials science, 0.1929
+interaction science, 0.1916
+chemical compound, 0.1916
+organic chemistry, 0.1894
+branch of science, 0.1875
+polymer science, 0.1830"
+e235,Hippocampal Neuron Dissociation Transfection and Culture in Microfluidics Chambers,"chemical substance, 0.2018
+product, 0.1964
+medication, 0.1880
+chemical compound, 0.1869
+ethanol, 0.1809
+cell type, 0.1789
+chemistry, 0.1789"
+e247,Senescence Associated β-galactosidase Staining,"concept, 0.1529
+heart arrhythmia, 0.1479
+medical finding, 0.1470
+tachycardia, 0.1465
+mathematical concept, 0.1459
+symptom, 0.1449
+unit, 0.1446"
+e250,Co-immunoprecipitation in Yeast,"cell, 0.1564
+cytology, 0.1561
+cell type, 0.1523
+cellular component, 0.1502
+ribonucleoprotein, 0.1482
+anthropology, 0.1477
+chemical compound, 0.1456"
+e2505,Superoxide Dismutase (SOD) and Catalase (CAT) Activity Assay  Protocols for Caenorhabditis elegans,"chemistry, 0.2185
+branch of science, 0.2153
+area of mathematics, 0.2094
+chemical substance, 0.2057
+chemical compound, 0.2029
+biology, 0.2029
+natural science, 0.2029"
+e251,Ribosome Fractionation in Yeast,"process, 0.1975
+biological process, 0.1947
+chemical substance, 0.1841
+intentional human action, 0.1829
+chemical compound, 0.1812
+ethanol, 0.1807
+product, 0.1800"
+e252,Minimum Inhibitory Concentration (MIC) Assay for Antifungal Drugs,"area of mathematics, 0.2083
+chemical substance, 0.1983
+mathematics, 0.1875
+product, 0.1871
+science, 0.1869
+cell, 0.1861
+chemical compound, 0.1859"
+e260,In vitro Human Umbilical Vein Endothelial Cells (HUVEC) Tube-formation Assay,"chemical compound, 0.1932
+chemical substance, 0.1858
+group or class of proteins, 0.1824
+anatomical structure, 0.1819
+cell type, 0.1815
+cell biology, 0.1806
+cell, 0.1803"
+e261,In vivo Matrigel Plug Angiogenesis Assay,"formaldehyde, 0.2209
+chemical compound, 0.2197
+carbon, 0.1997
+formaldehyde metabolic process, 0.1959
+formaldehyde catabolic process, 0.1957
+formaldehyde biosynthetic process, 0.1956
+response to formaldehyde, 0.1955"
+e263,Detection of Hydrogen Peroxide by DAB Staining in Arabidopsis Leaves Updated,"botany, 0.1694
+materials science, 0.1663
+interaction science, 0.1653
+plant, 0.1650
+science, 0.1632
+base material, 0.1627
+taxon, 0.1603"
+e2763,Microbial Mutagenicity Assay: Ames Test,"chemical compound, 0.2133
+chemistry, 0.2016
+chemical substance, 0.1999
+protein, 0.1989
+L-leucine, 0.1962
+L-Histidine, 0.1921
+biotin, 0.1912"
+e3089,"Use of Gas Chromatography to Quantify Short Chain Fatty Acids in the Serum, Colonic Luminal Content and Feces of Mice","chemistry, 0.2135
+chemical substance, 0.2097
+specialty, 0.1993
 chemical compound, 0.1987
-cell, 0.1979
-cellular component, 0.1968
-genome, 0.1951"
-e144,Mouse Embryonic Stem Cell Differentiation to Hematopoietic Precursors,"cell, 0.2090
-cell type, 0.2006
-biological component, 0.1943
-tissue, 0.1913
-group of cells, 0.1886
-chemical compound, 0.1854
-cell biology, 0.1828"
-e1467,Measurement of Chlorophyll a and Carotenoids Concentration in Cyanobacteria,"methanol, 0.3323
-chemical compound, 0.3028
-molecular function, 0.2966
-methane monooxygenase activity, 0.2865
-pheophoridase activity, 0.2857
-biological process, 0.2853
-juvenile-hormone esterase activity, 0.2850"
-e1471,Murine Liver Myeloid Cell Isolation Protocol,"interaction science, 0.1948
-cell type, 0.1935
-cell, 0.1926
-communication, 0.1918
-communication medium, 0.1898
-cytology, 0.1882
-hepatocyte, 0.1880"
-e1569,Isolation of Rhizosphere Bacterial Communities from Soil,"biology, 0.1759
-agriculture, 0.1742
-organism, 0.1734
-botany, 0.1725
-economic sector, 0.1715
-taxon, 0.1693
-science, 0.1683"
-e16,Spot Assay for Yeast,"architectural structure, 0.3399
-work, 0.3377
-communication medium, 0.3312
-column, 0.3133
-colonnade, 0.2889
-periodical, 0.2842
-magazine, 0.2842"
-e162,Alcian Blue – Alizarin Red Staining of Mouse Skeleton,"chemical compound, 0.3605
-glycerol, 0.3459
-ethanol, 0.3320
-acetic acid, 0.3143
-carbon, 0.2981
-glycerol transport, 0.2981
-urethanase activity, 0.2956"
-e172,"Culture, Differentiation and Transfection of C2C12 Myoblasts","cell, 0.4483
-cell biology, 0.4286
-cytology, 0.3750
-Differentiation, 0.3645
-tissue, 0.3514
-biological component, 0.3391
-multicellular structure, 0.3333"
-e1797,Preparation and Immunofluorescence Staining of the Trachea in Drosophila Larvae and Pupae,"chemical substance, 0.1818
-product, 0.1695
-physics, 0.1639
-anatomical structure, 0.1623
-cosmetics, 0.1620
-ice, 0.1602
-family of protein complexes, 0.1593"
-e186,Analysis of Mouse Liver Glycogen Content,"glucose, 0.4050
-hydrogen, 0.3819
-oxygen, 0.3711
-chemical compound, 0.3459
-sodium hydroxide, 0.3416
-glucose:sodium symporter activity, 0.3416
-sodium ion, 0.3270"
-e187,Clonogenic Assay,"cell type, 0.1930
-cell, 0.1925
-chemical compound, 0.1910
-carbon dioxide, 0.1840
-cytology, 0.1823
-group of cells, 0.1660
-anatomical structure, 0.1655"
-e191,c-Fos and Arc Immunohistochemistry on Rat Cerebellum,"anatomical structure, 0.2119
-brain, 0.2117
-neuroscience, 0.2089
-brain stem, 0.2022
-animal organ, 0.2015
-neurovascular system, 0.2013
-central nervous system, 0.2012"
-e1912,BODIPY 493/503 Staining of Neutral Lipid Droplets for Microscopy and Quantification by Flow Cytometry,"group, 0.1764
-chemical compound, 0.1743
-group of cells, 0.1724
-cell, 0.1710
-oleic acid, 0.1669
-cell type, 0.1668
-second-order metaclass, 0.1626"
-e195,Propidium Iodide Staining of Cells for FACS Analysis,"cell type, 0.2627
-cell, 0.2587
-chemical substance, 0.2528
-ice, 0.2334
-unit, 0.2241
-anatomical structure, 0.2190
-tissue, 0.2154"
-e1984,Sulforhodamine B (SRB) Assay in Cell Culture to Investigate Cell Proliferation,"chemical substance, 0.1906
-communication medium, 0.1860
-cell, 0.1843
-cell biology, 0.1828
-manifestation, 0.1825
-product, 0.1821
-cytology, 0.1814"
-e2045,Vascular Smooth Muscle Cell Isolation and Culture from Mouse Aorta,"interaction science, 0.1782
-anatomical structure, 0.1760
-biological process, 0.1746
-cell, 0.1728
-cell type, 0.1724
-cardiology, 0.1720
-chemical compound, 0.1717"
-e212,In vitro Protein Kinase Assay Using Yeast Sch9,"international law, 0.3193
-cytology, 0.3016
-construction, 0.2879
-treaty, 0.2815
-accord, 0.2667
-cell, 0.2648
-law, 0.2508"
-e220,Soft–Agar colony Formation Assay,"water, 0.2756
-chemical compound, 0.2657
-chemical substance, 0.2647
-solvent, 0.2622
-dihydrogen chalcogenide, 0.2513
-hydrogen, 0.2504
-oxygen, 0.2473"
-e2273,In vitro Assays for Measuring Endothelial Permeability by Transwells and Electrical Impedance Systems,"chemistry, 0.2055
-interruption science, 0.1881
-organic chemistry, 0.1881
-chemical compound, 0.1871
-pathology, 0.1841
-physical science, 0.1841
-interaction science, 0.1836"
-e235,Hippocampal Neuron Dissociation Transfection and Culture in Microfluidics Chambers,"chemical substance, 0.2517
-chemical compound, 0.2369
-medication, 0.2311
-ethanol, 0.2307
-product, 0.2214
-protein, 0.2166
-chemistry, 0.2149"
-e247,Senescence Associated β-galactosidase Staining,"unit, 0.2412
-cell, 0.2397
-abstract object, 0.2187
-concept, 0.2119
-cell line, 0.2115
-cell type, 0.2007
-tissue, 0.1986"
-e250,Co-immunoprecipitation in Yeast,"protein, 0.1982
-ribonucleoprotein, 0.1974
-chemical compound, 0.1940
-cell type, 0.1929
-ribonucleoprotein granule, 0.1909
-chemical substance, 0.1887
-cell, 0.1881"
-e2505,Superoxide Dismutase (SOD) and Catalase (CAT) Activity Assay  Protocols for Caenorhabditis elegans,"chemistry, 0.2102
-area of mathematics, 0.2067
-chemical substance, 0.2027
-chemical compound, 0.1987
-physics, 0.1956
-branch of science, 0.1917
-statistics, 0.1867"
-e251,Ribosome Fractionation in Yeast,"chemical compound, 0.2514
-saccharose, 0.2461
-water, 0.2385
-dihydrogen chalcogenide, 0.2318
-hydrogen, 0.2301
-sucrose-phosphate phosphatase activity, 0.2221
-oxygen, 0.2213"
-e252,Minimum Inhibitory Concentration (MIC) Assay for Antifungal Drugs,"communication medium, 0.2202
-manifestation, 0.2129
-product, 0.2050
-interaction science, 0.1981
-base material, 0.1971
-work, 0.1965
-communication, 0.1920"
-e260,In vitro Human Umbilical Vein Endothelial Cells (HUVEC) Tube-formation Assay,"anatomical structure, 0.1580
-chemical compound, 0.1514
-body fluids, 0.1510
-cell type, 0.1503
-body, 0.1500
-gel, 0.1485
-tissue, 0.1483"
-e261,In vivo Matrigel Plug Angiogenesis Assay,"cytology, 0.2782
-interaction science, 0.2731
-cell, 0.2719
-tissue, 0.2464
-cell type, 0.2435
-biological component, 0.2415
-multicellular structure, 0.2401"
-e263,Detection of Hydrogen Peroxide by DAB Staining in Arabidopsis Leaves Updated,"taxon, 0.1961
-plant, 0.1960
-botany, 0.1874
-chemical compound, 0.1846
-root, 0.1755
-plant stem, 0.1754
-plant genetics, 0.1754"
-e2763,Microbial Mutagenicity Assay: Ames Test,"chemical compound, 0.2134
-biological process, 0.2010
-mitomycin, 0.1997
-L-Histidine, 0.1981
-L-histidine transmembrane transport, 0.1961
-L-histidine transmembrane export from vacuole, 0.1949
-L-histidine transport, 0.1946"
-e3089,"Use of Gas Chromatography to Quantify Short Chain Fatty Acids in the Serum, Colonic Luminal Content and Feces of Mice","chemistry, 0.2189
-organic chemistry, 0.2032
-biology, 0.2030
-branch of science, 0.1976
-immunology, 0.1965
-technology, 0.1960
-microbiology, 0.1954"
-e3097,Genome-wide Estimation of Evolutionary Distance and Phylogenetic Analysis of Homologous Genes,"genome, 0.2144
-cell biology, 0.2090
-protein, 0.2081
-genetics, 0.2074
-taxon, 0.2034
-science, 0.2032
-cell, 0.2021"
-e313,Detection of Intracellular Reactive Oxygen Species (CM-H2DCFDA),"cell, 0.2296
-cell type, 0.2291
-chemical substance, 0.2194
-unit, 0.2016
-biological component, 0.2004
-ice, 0.1973
-tissue, 0.1966"
-e314,"Isolation, Purification, and Culture of Primary Murine Microglia Cells","cell, 0.1894
-anatomical structure, 0.1887
-cell type, 0.1871
-tissue, 0.1848
-multicellular structure, 0.1839
-biological component, 0.1812
-group of cells, 0.1783"
-e322,In vitro Culture of Human PBMCs,"human body, 0.3532
-human, 0.3463
-lymphatic system, 0.3272
-anthropology, 0.3048
-lymphocyte, 0.2967
-natural person, 0.2928
-circulatory system, 0.2880"
-e323,Isolation of Human PBMCs,"blood, 0.3697
-platelets, 0.3451
-organism substance, 0.3333
-cell, 0.3305
-tissue, 0.3184
-red blood cell, 0.3120
-cell type, 0.2977"
-e325,In vitro Tumorsphere Formation Assays,"interaction science, 0.2882
-communication medium, 0.2754
-cytology, 0.2539
-media history, 0.2534
-communication, 0.2529
-cell, 0.2510
-matter, 0.2421"
-e327,Organotypic Slice Culture of Embryonic Brain Sections,"science, 0.2654
-neuroscience, 0.2627
-brain, 0.2481
-interaction science, 0.2351
-regional studies, 0.2319
-work, 0.2312
-area studies, 0.2301"
-e3295,CRISPR/Cas9 + AAV-mediated Intra-embryonic Gene Knocking in Mice,"protein, 0.1757
-chemical compound, 0.1699
-Coagulation factor IX, 0.1686
-Erythropoietin, 0.1678
-Toll-like receptor, 0.1663
-taxon, 0.1632
-ribonucleoprotein, 0.1628"
-e3298,Electron Microscopy Sample Preparation Protocol Enabling Nano-to-mesoscopic Mapping of Cellular Connectomes and Their Habitats in Human Tissues and Organs,"branch of science, 0.2197
-chemistry, 0.2137
-science, 0.2051
-materials science, 0.2043
-neuroscience, 0.2016
-chemical compound, 0.2004
-physics, 0.2004"
-e3303,A Protocol to Map the Spatial Proteome Using HyperLOPIT in Saccharomyces cerevisiae,"chemical substance, 0.2025
-protein, 0.2009
-chemical compound, 0.1990
-type of map, 0.1944
-group or class of proteins, 0.1932
-second-order metaclass, 0.1927
-anatomical structure, 0.1923"
-e3312,Axon-seq for in Depth Analysis of the RNA Content of Neuronal Processes,"chemical substance, 0.2042
-chemical compound, 0.1993
-specialty, 0.1954
-protein, 0.1880
-cell type, 0.1839
-product, 0.1839
-water, 0.1814"
-e3313,Isolation and Culture of Single Myofiber and Immunostaining of Satellite Cells from Adult C57BL/6J Mice,"chemical compound, 0.1690
-anatomical structure, 0.1672
-biology, 0.1627
-carbon dioxide, 0.1587
-cell biology, 0.1574
-tissue, 0.1571
-biological component, 0.1564"
-e332,Mouse Cochlear Whole Mount Immunofluorescence,"biology, 0.1462
-anatomy, 0.1432
-organ, 0.1419
-branch of science, 0.1418
-organism, 0.1415
-anatomical structure, 0.1399
-medicine, 0.1399"
-e3327,Tensile Testing Assay for the Measurement of Tissue Stiffness in Arabidopsis Inflorescence Stem,"artificial physical object, 0.1218
-Electric lamps, 0.1215
-lamp, 0.1210
-product, 0.1193
-software, 0.1190
-nonbiological component, 0.1186
-Edison screw, 0.1170"
-e3344,Non-invasive Quantification of Cell Wall Porosity by Fluorescence Quenching Microscopy,"cell, 0.1907
-cytology, 0.1812
-unit, 0.1768
-pedology, 0.1747
-soil science, 0.1744
-biological component, 0.1734
-cellular component, 0.1724"
-e3350,Co-culture of Human Stem Cell Derived Neurons and Oligodendrocyte Progenitor Cells,"work, 0.1930
-science, 0.1896
-cell, 0.1883
-interaction science, 0.1882
-model, 0.1855
-cell biology, 0.1840
-communication medium, 0.1834"
-e3355,"PEG-mediated, Stable, Nuclear and Chloroplast Transformation of Cyanidioschizon merolae","carbon dioxide, 0.1982
-genome, 0.1951
-science, 0.1937
-process, 0.1931
-biological process, 0.1922
-research, 0.1920
-DNA, 0.1905"
-e3382,ATAC-seq on Sorted Adult Mouse Neurons,"cell, 0.3170
-biological component, 0.2880
-organism, 0.2806
-cellular component, 0.2736
-cell type, 0.2696
-cytology, 0.2676
-unit, 0.2663"
-e3386,3D Organoid Formation from the Murine Salivary Gland Cell Line SIMS,"cell, 0.2098
-cell biology, 0.2040
-cytology, 0.2024
-software, 0.1938
-cell type, 0.1927
-biological component, 0.1906
-tissue, 0.1866"
-e3387,Antisense Oligodeoxynucleotide Perfusion Blocks Gene Expression of Synaptic Plasticity-related Proteins without Inducing Compensation in Hippocampal Slices,"area of mathematics, 0.1923
+software, 0.1977
+organic chemistry, 0.1957
+biology, 0.1951"
+e3097,Genome-wide Estimation of Evolutionary Distance and Phylogenetic Analysis of Homologous Genes,"branch of science, 0.2084
+science, 0.2045
+automation, 0.1988
+mathematics, 0.1984
+construction, 0.1977
+cell biology, 0.1976
+genetics, 0.1971"
+e313,Detection of Intracellular Reactive Oxygen Species (CM-H2DCFDA),"cell, 0.2076
+cell biology, 0.2071
+chemical compound, 0.2045
+cytology, 0.1979
+cell type, 0.1948
+chemical substance, 0.1942
+life, 0.1938"
+e314,"Isolation, Purification, and Culture of Primary Murine Microglia Cells","cell, 0.1809
+cell biology, 0.1783
+cytology, 0.1747
+cell type, 0.1730
+tissue, 0.1706
+biological component, 0.1681
+neuroscience, 0.1680"
+e322,In vitro Culture of Human PBMCs,"anthropology, 0.2061
+interaction science, 0.1986
+human, 0.1981
+culture, 0.1898
+immunology, 0.1898
+communication medium, 0.1866
+cultural studies, 0.1864"
+e323,Isolation of Human PBMCs,"cell, 0.2271
+anthropology, 0.2251
+cytology, 0.2244
+human, 0.2238
+interaction science, 0.2194
+human body, 0.2176
+blood, 0.2167"
+e325,In vitro Tumorsphere Formation Assays,"cell type, 0.1798
+cell, 0.1789
+chemical substance, 0.1763
+unit, 0.1681
+anatomical structure, 0.1680
+chemical compound, 0.1660
+tissue, 0.1657"
+e327,Organotypic Slice Culture of Embryonic Brain Sections,"chemical substance, 0.1983
+medication, 0.1965
+L-Glutamine, 0.1909
+pharmacology, 0.1858
+chemical compound, 0.1848
+drug, 0.1838
+brain region, 0.1827"
+e3295,CRISPR/Cas9 + AAV-mediated Intra-embryonic Gene Knocking in Mice,"chemical substance, 0.2050
+chemical compound, 0.1996
+cell, 0.1995
+construction, 0.1983
+genome, 0.1973
+software, 0.1971
+automation, 0.1967"
+e3298,Electron Microscopy Sample Preparation Protocol Enabling Nano-to-mesoscopic Mapping of Cellular Connectomes and Their Habitats in Human Tissues and Organs,"branch of science, 0.2242
+science, 0.2189
+chemistry, 0.2160
+physics, 0.2149
+materials science, 0.2139
+medicine, 0.2137
+philosophy, 0.2116"
+e3303,A Protocol to Map the Spatial Proteome Using HyperLOPIT in Saccharomyces cerevisiae,"area of mathematics, 0.2081
+chemical substance, 0.2038
+science, 0.2016
+protein, 0.2005
+chemical compound, 0.2002
+automation, 0.1994
+concept, 0.1987"
+e3312,Axon-seq for in Depth Analysis of the RNA Content of Neuronal Processes,"branch of science, 0.2075
+chemical substance, 0.2058
+specialty, 0.1997
+product, 0.1995
+materials science, 0.1992
+chemical compound, 0.1988
+biology, 0.1940"
+e3313,Isolation and Culture of Single Myofiber and Immunostaining of Satellite Cells from Adult C57BL/6J Mice,"chemical compound, 0.2037
+chemical substance, 0.1974
+glycine, 0.1872
+gel, 0.1863
+medication, 0.1857
+anatomical structure, 0.1840
+product, 0.1837"
+e332,Mouse Cochlear Whole Mount Immunofluorescence,"anatomical structure, 0.1762
+bone, 0.1738
+anatomy, 0.1714
+branch of biology, 0.1685
+organ, 0.1682
+skull, 0.1682
+animal organ, 0.1664"
+e3327,Tensile Testing Assay for the Measurement of Tissue Stiffness in Arabidopsis Inflorescence Stem,"materials science, 0.1950
+product, 0.1945
+marketing, 0.1941
 software, 0.1909
-chemical substance, 0.1901
-chemistry, 0.1868
-concept, 0.1867
-neuroscience, 0.1862
-specialty, 0.1861"
-e3393,Use of the Vsoc-maze to Study Sociability and Preference for Social Novelty in Rodents,"process, 0.1794
-research, 0.1741
-biological process, 0.1660
-science, 0.1639
-activity, 0.1616
-method, 0.1594
-social organism behavior, 0.1590"
-e3397,Intracerebral Injection of Streptozotocin to Model Alzheimer Disease in Rats,"chemical compound, 0.2032
-chemical substance, 0.2012
-biomedical measurand, 0.2012
-medical specialty, 0.2006
-anatomical structure, 0.1938
-brain region, 0.1915
-taxon, 0.1895"
-e3398,Cell Wall Compositional Analysis of Rice Culms,"chemical compound, 0.2458
-chemical substance, 0.2364
-water, 0.2304
-carbon dioxide, 0.2257
-air, 0.2240
-acetone, 0.2235
-dihydrogen chalcogenide, 0.2179"
-e3399,Non-aqueous Fractionation (NAF) for Metabolite Analysis in Subcellular Compartments of Arabidopsis Leaf Tissues,"chemical substance, 0.2196
-physics, 0.2152
-product, 0.2065
-materials science, 0.2061
-software, 0.2045
-chemical compound, 0.2025
-base material, 0.1992"
-e3402,"Visualization of Nitric Oxide, Measurement of Nitrosothiols Content, Activity of NOS and NR in Wheat Seedlings","chemistry, 0.2130
-chemical compound, 0.2069
-chemical substance, 0.2002
-medication, 0.1922
-L-Arginine, 0.1890
-nitric oxide (radical), 0.1885
-protein, 0.1884"
-e3406,Optogenetic Food Odor Avoidance Assay,"chemical substance, 0.2060
-product, 0.1934
-chemical compound, 0.1913
-anatomical structure, 0.1885
-taxon, 0.1874
-neuroscience, 0.1861
-protein, 0.1856"
-e3407,Probabilistic Models for Predicting Mutational Routes to New Adaptive Phenotypes,"area of mathematics, 0.2197
-protein, 0.2178
-specialty, 0.2097
-biology, 0.2075
-interaction science, 0.2066
-biological process, 0.2043
-concept, 0.2027"
-e3408,Isolation and Imaging of His- and RFP-tagged Amyloid-like Proteins from Caenorhabditis elegans by TEM and SIM,"protein, 0.2017
-biopolymer, 0.1846
-chemical substance, 0.1760
-chemical element, 0.1760
-chemical compound, 0.1743
-Casein kinase I  CELE_C03C10.1, 0.1743
-Casein kinase 1 alpha 1, 0.1743"
-e3415,A Mismatch-tolerant RT-LAMP Method for Molecular Diagnosis of Highly Variable Viruses,"protein, 0.2190
-chemical compound, 0.2189
-chemical substance, 0.2184
-RNA, 0.2157
-ribonucleoprotein, 0.2157
-DNA, 0.2125
-construction, 0.2111"
-e3417,Differentiation of Mouse Embryonic Stem Cells to Neuronal Cells  Using Hanging Droplets and Retinoic Acid,"chemical compound, 0.2091
-chemical substance, 0.2087
-technology, 0.2039
-carbon dioxide, 0.2012
-coolant, 0.1985
-process, 0.1961
-interaction science, 0.1958"
-e3420,"Using Imaging Flow Cytometry to Characterize Extracellular Vesicles Isolated from Cell Culture Media, Plasma or Urine","tissue, 0.2302
-organism substance, 0.2233
-cell, 0.2154
-anatomical structure, 0.2097
-biological component, 0.2091
-multicellular structure, 0.2086
-blood plasma, 0.2079"
-e3424,SarkoSpin: A Technique for Biochemical Isolation and Characterization  of Pathological TDP-43 Aggregates,"protein, 0.2033
-biological process, 0.2001
-biochemistry, 0.1993
-biopolymer, 0.1976
-process, 0.1950
-chemistry, 0.1894
-chemical compound, 0.1890"
-e3427,Isolation and Quantification of Metabolite Levels in Murine Tumor Interstitial Fluid by LC/MS,"statistics, 0.1918
-regional studies, 0.1904
-area studies, 0.1901
-mathematical analysis, 0.1861
-specialty, 0.1857
-technology, 0.1850
-pure mathematics, 0.1849"
-e3430,ELISA Based Protein Ubiquitylation Measurement,"biological process, 0.1971
-protein, 0.1890
-establishment of protein localization to spindle pole body, 0.1855
-establishment of protein localization to mitotic spindle pole body, 0.1854
-microtubule polymerization based protein transport to cell tip cortex, 0.1854
-microtubule polymerization based protein transport, 0.1854
-protein catabolic process at synapse, 0.1853"
-e3433,Labeling and Isolation of Fluorouracil Tagged RNA by Cytosine Deaminase Expression,"chemical compound, 0.2174
-protein, 0.2146
-cell type, 0.2094
-group or class of proteins, 0.2062
-anatomical structure, 0.2052
-interaction science, 0.2047
-biological process, 0.2028"
-e3434,Method for Assessing Virulence of Colletotrichum higginsianum on Arabidopsis thaliana Leaves Using Automated Lesion Area Detection and Measurement,"botany, 0.1678
-technology, 0.1645
-education, 0.1610
-biotechnology, 0.1592
-plant, 0.1591
-technique, 0.1587
-studies, 0.1539"
-e3435,Determination of Chromatin Accessibility in Drosophila Midgut Enterocytes by in situ 5mC Labeling,"cell, 0.1874
-cell type, 0.1873
-anatomical structure, 0.1826
-chemical compound, 0.1823
-biological component, 0.1807
-protein, 0.1743
-tissue, 0.1738"
-e3436,Gallyas Silver Impregnation of Myelinated Nerve Fibers,"anatomical structure, 0.2110
-chemical compound, 0.1969
-central nervous system, 0.1966
-nervous system, 0.1962
-neurovascular system, 0.1940
-corpus callosum, 0.1933
-brain stem, 0.1922"
-e431,Flow Cytometric Detection of Reactive Oxygen Species,"hydrogen peroxide, 0.3539
-chemical compound, 0.3308
-response to hydrogen peroxide, 0.2783
-hydrogen peroxide metabolic process, 0.2774
-cellular response to hydrogen peroxide, 0.2774
-detoxification of hydrogen peroxide, 0.2756
-hydrogen, 0.2739"
-e49,Culture and Detection of Mycobacterium tuberculosis (MTB) and Mycobacterium bovis (BCG),"class, 0.3627
-taxon, 0.3491
-astronomical object type, 0.3491
-transmembrane transport protein family, 0.3426
-family of protein complexes, 0.3364
-type II protein secretion system complex, 0.2937
-galaxy, 0.2824"
-e68,Isolation and Culture of Mouse Bone Marrow-derived Macrophages (BMM’phi’),"cell, 0.2221
-cell type, 0.2184
-cytology, 0.2156
-tissue, 0.2044
-anatomical structure, 0.2022
-biological component, 0.2012
-multicellular structure, 0.1991"
-e689,Cell Isolation of Spleen Mononuclear Cells,"protein, 0.3729
-CD4 molecule, 0.3577
-T-cell surface antigen CD4, 0.3455
-Immunoglobulin-like domain, 0.3128
-Immunoglobulin-like domain superfamily, 0.3121
-Immunoglobulin subtype, 0.3056
-Immunoglobulin subtype 2, 0.2940"
-e754,Subcellular Fractionation of Cultured Human Cell Lines,"protein, 0.3950
-ribonucleoprotein, 0.3167
-biopolymer, 0.3120
-nutrient, 0.3120
-amino acid, 0.3065
-polyamide, 0.3030
-Toll-like receptor, 0.3011"
-e786,Phalloidin Staining and Immunohistochemistry of Zebrafish Embryos,"chemical substance, 0.2105
-physics, 0.2003
-chemical compound, 0.1998
-excipient, 0.1957
-ketone bodies, 0.1955
-chemistry, 0.1952
-acetone, 0.1951"
-e834,Whole Spleen Flow Cytometry Assay,"chemical substance, 0.2294
-chemical compound, 0.2099
-ice, 0.2079
-product, 0.2046
-cell type, 0.2009
-water, 0.1990
-chemistry, 0.1987"
-e859,Bronchoalveolar Lavage and Lung Tissue Digestion,"anatomical structure, 0.3214
-cell type, 0.3013
-chemical substance, 0.2857
-tissue, 0.2702
-chemical compound, 0.2662
-biological component, 0.2633
-multicellular structure, 0.2618"
-e888,Colony Immunoblotting Assay for Detection of Bacterial Cell-surface or Extracellular Proteins,"chemical compound, 0.1573
-ethanol, 0.1569
-cell, 0.1504
-occupation, 0.1480
-cell type, 0.1480
-ethanol metabolic process, 0.1474
-acetate catabolic process to butyrate, ethanol, acetone and butanol, 0.1471"
-e928,In vitro Protein Ubiquitination Assays,"protein, 0.2431
-chemical compound, 0.2249
-sodium lauryl sulfate, 0.2195
-Fused Dmel_CG6551, 0.2173
-molecular chaperones, 0.2139
-biological process, 0.2055
-Substrate protein folds while it is bound to the ATP-independent chaperone Spy, 0.2055"
-e954,Bacterial Counts in Spleen,"Slit guidance ligand 2, 0.4622
-Squeezing axons out of the gray matter: a role for slit and semaphorin proteins from midline and ventral spinal cord, 0.4622
-grey matter, 0.3293
-corticospinal neuron axon guidance through spinal cord, 0.3293
-EGF-like, conserved site, 0.3179
-EGF-like domain, 0.3179
-Leucine-rich repeat N-terminal domain, protein family, 0.3179"
-e959,Immunoplaque Assay (Influenza Virus),"commune of France, 1.0000
-commune, 0.5185
-établissement public de coopération intercommunale, 0.5185
-arrondissement of France, 0.5185
-territorial collectivity of France, 0.5185
-municipality, 0.5185
-fifth-level administrative country subdivision, 0.5185"
-e976,Harvest and Culture of Mouse Peritoneal Macrophages,"anthropology, 0.2661
-culture, 0.2651
-work, 0.2596
-interaction science, 0.2479
-social science, 0.2459
-communication medium, 0.2431
-cultural studies, 0.2384"
-e977,Assay to Evaluate Vascular Permeability Induction in Mice,"chemical compound, 0.2476
-anatomical structure, 0.2461
-cell type, 0.2324
-glucose, 0.2319
-taxon, 0.2283
-tissue, 0.2270
-blood plasma, 0.2231"
-e99,Transwell Cell Migration Assay Using Human Breast Epithelial Cancer Cell,"cell, 0.2095
-cytology, 0.2079
-cell type, 0.2027
-interaction science, 0.1978
-chemical compound, 0.1865
-media history, 0.1840
-communication medium, 0.1787"
-e995,Preparation of Outer Membrane Vesicle from Escherichia coli,"cytology, 0.2613
-cell, 0.2547
-anthropology, 0.2411
-cell type, 0.2250
-culture, 0.2213
-branch of biology, 0.2154
-cultural studies, 0.2143"
+specialty, 0.1908
+property, 0.1891
+base material, 0.1877"
+e3344,Non-invasive Quantification of Cell Wall Porosity by Fluorescence Quenching Microscopy,"chemistry, 0.2077
+area of mathematics, 0.2020
+interaction science, 0.1977
+forensic science, 0.1968
+biology, 0.1963
+chemical substance, 0.1952
+technology, 0.1950"
+e3350,Co-culture of Human Stem Cell Derived Neurons and Oligodendrocyte Progenitor Cells,"cell, 0.1851
+cell type, 0.1817
+work, 0.1786
+taxon, 0.1779
+concept, 0.1763
+science, 0.1762
+neuroscience, 0.1761"
+e3355,"PEG-mediated, Stable, Nuclear and Chloroplast Transformation of Cyanidioschizon merolae","chemical compound, 0.2025
+DNA, 0.1953
+carbon dioxide, 0.1951
+chemical substance, 0.1947
+genome, 0.1937
+biological process, 0.1918
+science, 0.1904"
+e3382,ATAC-seq on Sorted Adult Mouse Neurons,"cell, 0.2321
+biology, 0.2317
+neuroscience, 0.2306
+genetics, 0.2298
+genome, 0.2293
+science, 0.2291
+cell biology, 0.2280"
+e3386,3D Organoid Formation from the Murine Salivary Gland Cell Line SIMS,"specialty, 0.2098
+science, 0.2078
+pharmacology, 0.2055
+interaction science, 0.2045
+mathematical analysis, 0.2035
+artificial intelligence, 0.2035
+software, 0.2029"
+e3387,Antisense Oligodeoxynucleotide Perfusion Blocks Gene Expression of Synaptic Plasticity-related Proteins without Inducing Compensation in Hippocampal Slices,"work, 0.1988
+science, 0.1965
+concept, 0.1941
+software, 0.1938
+area of mathematics, 0.1932
+chemical substance, 0.1922
+chemistry, 0.1915"
+e3393,Use of the Vsoc-maze to Study Sociability and Preference for Social Novelty in Rodents,"science, 0.1984
+research, 0.1975
+regional studies, 0.1910
+process, 0.1905
+area studies, 0.1898
+, 0.1867
+scientific method, 0.1850"
+e3397,Intracerebral Injection of Streptozotocin to Model Alzheimer Disease in Rats,"science, 0.2006
+natural science, 0.1972
+branch of science, 0.1968
+materials science, 0.1961
+chemical substance, 0.1958
+chemical compound, 0.1951
+neuroscience, 0.1939"
+e3398,Cell Wall Compositional Analysis of Rice Culms,"chemical substance, 0.2077
+chemical compound, 0.2030
+physics, 0.2007
+polysaccharides, 0.1956
+natural science, 0.1945
+chemistry, 0.1941
+specialty, 0.1940"
+e3399,Non-aqueous Fractionation (NAF) for Metabolite Analysis in Subcellular Compartments of Arabidopsis Leaf Tissues,"chemical substance, 0.2083
+physics, 0.2030
+software, 0.1974
+natural science, 0.1970
+chemical compound, 0.1966
+product, 0.1963
+science, 0.1960"
+e3402,"Visualization of Nitric Oxide, Measurement of Nitrosothiols Content, Activity of NOS and NR in Wheat Seedlings","chemical compound, 0.2033
+chemistry, 0.2019
+chemical substance, 0.1931
+protein, 0.1908
+group or class of proteins, 0.1885
+science, 0.1874
+taxon, 0.1858"
+e3406,Optogenetic Food Odor Avoidance Assay,"science, 0.2026
+software, 0.2016
+chemical substance, 0.1991
+product, 0.1969
+neuroscience, 0.1960
+automation, 0.1959
+sport, 0.1948"
+e3407,Probabilistic Models for Predicting Mutational Routes to New Adaptive Phenotypes,"protein, 0.2121
+area of mathematics, 0.2076
+chemistry, 0.2050
+specialty, 0.2044
+biological process, 0.2041
+interaction science, 0.2023
+engineering, 0.2016"
+e3408,Isolation and Imaging of His- and RFP-tagged Amyloid-like Proteins from Caenorhabditis elegans by TEM and SIM,"protein, 0.1917
+chemistry, 0.1890
+chemical substance, 0.1868
+science, 0.1832
+software, 0.1828
+materials science, 0.1802
+product, 0.1801"
+e3415,A Mismatch-tolerant RT-LAMP Method for Molecular Diagnosis of Highly Variable Viruses,"construction, 0.1887
+chemical substance, 0.1840
+process, 0.1835
+occurrence, 0.1831
+biological process, 0.1830
+taxon, 0.1828
+chemical compound, 0.1808"
+e3417,Differentiation of Mouse Embryonic Stem Cells to Neuronal Cells  Using Hanging Droplets and Retinoic Acid,"protein, 0.2091
+biological process, 0.2069
+chemical substance, 0.2026
+biological pathway, 0.2013
+chemical compound, 0.2011
+process, 0.1997
+carbon dioxide, 0.1951"
+e3420,"Using Imaging Flow Cytometry to Characterize Extracellular Vesicles Isolated from Cell Culture Media, Plasma or Urine","cell type, 0.1719
+chemical substance, 0.1690
+cell, 0.1680
+physics, 0.1658
+physical property, 0.1641
+anatomical structure, 0.1640
+tissue, 0.1628"
+e3424,SarkoSpin: A Technique for Biochemical Isolation and Characterization  of Pathological TDP-43 Aggregates,"protein, 0.2083
+chemical substance, 0.2058
+chemical compound, 0.2014
+biological process, 0.2002
+biochemistry, 0.1997
+automation, 0.1981
+process, 0.1965"
+e3427,Isolation and Quantification of Metabolite Levels in Murine Tumor Interstitial Fluid by LC/MS,"branch of science, 0.2167
+specialty, 0.2104
+biology, 0.2060
+breastfeeding, 0.2044
+biological process, 0.2037
+materials science, 0.2034
+life, 0.2031"
+e3430,ELISA Based Protein Ubiquitylation Measurement,"chemical compound, 0.1892
+biological process, 0.1885
+chemistry, 0.1862
+protein, 0.1851
+chemical substance, 0.1829
+water, 0.1779
+establishment of protein localization to spindle pole body, 0.1767"
+e3433,Labeling and Isolation of Fluorouracil Tagged RNA by Cytosine Deaminase Expression,"branch of science, 0.2178
+chemical compound, 0.2129
+protein, 0.2038
+cell type, 0.2019
+branch of biology, 0.2013
+classification system, 0.2013
+medical specialty, 0.2007"
+e3434,Method for Assessing Virulence of Colletotrichum higginsianum on Arabidopsis thaliana Leaves Using Automated Lesion Area Detection and Measurement,"electronics, 0.2056
+software, 0.2046
+science, 0.2046
+automation, 0.2045
+agriculture, 0.2036
+interaction science, 0.2017
+regional studies, 0.1999"
+e3435,Determination of Chromatin Accessibility in Drosophila Midgut Enterocytes by in situ 5mC Labeling,"cell, 0.1989
+taxon, 0.1955
+chemical compound, 0.1931
+cell type, 0.1925
+biological process, 0.1913
+genome, 0.1904
+DNA, 0.1879"
+e3436,Gallyas Silver Impregnation of Myelinated Nerve Fibers,"chemical substance, 0.2084
+chemistry, 0.2080
+chemical compound, 0.1977
+medication, 0.1929
+organic chemistry, 0.1909
+product, 0.1890
+technology, 0.1887"
+e431,Flow Cytometric Detection of Reactive Oxygen Species,"chemical compound, 0.2644
+chemistry, 0.2513
+biological process, 0.2475
+L-Cysteine, 0.2466
+protein, 0.2458
+chemical substance, 0.2417
+glutathione, 0.2415"
+e49,Culture and Detection of Mycobacterium tuberculosis (MTB) and Mycobacterium bovis (BCG),"chemical compound, 0.1361
+glycerol, 0.1360
+water, 0.1353
+liquid water, 0.1348
+carbon dioxide, 0.1346
+molecular function, 0.1344
+carbon dioxide transmembrane transporter activity, 0.1319"
+e68,Isolation and Culture of Mouse Bone Marrow-derived Macrophages (BMM’phi’),"cell, 0.2087
+cell type, 0.2087
+cytology, 0.2005
+tissue, 0.1990
+anatomical structure, 0.1990
+biological component, 0.1965
+multicellular structure, 0.1939"
+e689,Cell Isolation of Spleen Mononuclear Cells,"cell type, 0.1797
+cell, 0.1792
+cytology, 0.1751
+protein, 0.1694
+anatomical structure, 0.1673
+biological component, 0.1659
+tissue, 0.1658"
+e754,Subcellular Fractionation of Cultured Human Cell Lines,"cell, 0.1971
+cellular component, 0.1881
+cell type, 0.1862
+cytology, 0.1823
+ribonucleoprotein, 0.1785
+protein, 0.1746
+ribonucleoprotein granule, 0.1736"
+e786,Phalloidin Staining and Immunohistochemistry of Zebrafish Embryos,"chemical substance, 0.1809
+physics, 0.1720
+chemistry, 0.1690
+protein, 0.1686
+chemical compound, 0.1683
+physical substance, 0.1663
+nutrient, 0.1644"
+e834,Whole Spleen Flow Cytometry Assay,"chemical substance, 0.2067
+chemical compound, 0.1958
+product, 0.1891
+protein, 0.1864
+group or class of proteins, 0.1859
+gel, 0.1833
+anatomical structure, 0.1822"
+e859,Bronchoalveolar Lavage and Lung Tissue Digestion,"chemical substance, 0.1916
+product, 0.1844
+life, 0.1829
+anatomical structure, 0.1827
+taxon, 0.1801
+cell type, 0.1789
+software, 0.1787"
+e888,Colony Immunoblotting Assay for Detection of Bacterial Cell-surface or Extracellular Proteins,"interaction science, 0.1831
+branch of science, 0.1830
+protein, 0.1821
+chemical compound, 0.1811
+media history, 0.1784
+physics, 0.1762
+biopolymer, 0.1762"
+e928,In vitro Protein Ubiquitination Assays,"protein, 0.2197
+biological process, 0.2023
+establishment of protein localization to spindle pole body, 0.2013
+establishment of protein localization to mitotic spindle pole body, 0.2013
+microtubule polymerization based protein transport to cell tip cortex, 0.2012
+microtubule polymerization based protein transport, 0.2012
+protein catabolic process at synapse, 0.2012"
+e954,Bacterial Counts in Spleen,"biological process, 0.1571
+carbon dioxide, 0.1551
+carbon dioxide transmembrane transport, 0.1537
+response to carbon dioxide, 0.1537
+cellular response to carbon dioxide, 0.1537
+carbon dioxide transport, 0.1537
+methanogenesis, from carbon dioxide, 0.1536"
+e959,Immunoplaque Assay (Influenza Virus),"carbon dioxide, 0.5256
+chemical compound, 0.3923
+gas, 0.3710
+cellular response to carbon dioxide, 0.3644
+response to carbon dioxide, 0.3644
+acidic oxide, 0.3644
+carbon dioxide transmembrane transport, 0.3628"
+e976,Harvest and Culture of Mouse Peritoneal Macrophages,"chemical substance, 0.1896
+chemical compound, 0.1878
+carbon dioxide, 0.1831
+cell type, 0.1825
+medication, 0.1796
+product, 0.1790
+anatomical structure, 0.1783"
+e977,Assay to Evaluate Vascular Permeability Induction in Mice,"chemical compound, 0.1913
+anatomical structure, 0.1841
+cell type, 0.1824
+tissue, 0.1810
+chemistry, 0.1802
+organism substance, 0.1794
+blood, 0.1778"
+e99,Transwell Cell Migration Assay Using Human Breast Epithelial Cancer Cell,"cell type, 0.1854
+cell, 0.1836
+chemical substance, 0.1823
+chemical compound, 0.1811
+medication, 0.1715
+carbon dioxide, 0.1715
+product, 0.1707"
+e995,Preparation of Outer Membrane Vesicle from Escherichia coli,"biopolymer, 0.2170
+protein, 0.2122
+cell, 0.2083
+polynucleotide, 0.2080
+biochemistry, 0.2073
+biomolecule, 0.2023
+cellular component, 0.1999"

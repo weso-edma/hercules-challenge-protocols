@@ -1,0 +1,301 @@
+pr_id,title,topics_from_lda
+e100,Scratch Wound Healing Assay,"interaction science, 0.99548
+interaction science, 0.00045
+botany, 0.00045"
+e1029,ADCC Assay Protocol,"protein, 0.74729
+interaction science, 0.25011
+interaction science, 0.00029"
+e1072,Catalase Activity Assay in Candida glabrata,"botany, 0.62093
+protein, 0.31150
+interaction science, 0.06511"
+e1077,RNA Isolation and Northern Blot Analysis,"protein, 0.42861
+protein, 0.29078
+anatomical structure, 0.19362"
+e1090,Flow Cytometric Analysis of Autophagic Activity with Cyto-ID Staining in Primary Cells,"interaction science, 0.99796
+interaction science, 0.00020
+botany, 0.00020"
+e1136,Preparation of Parasite Protein Extracts and Western Blot Analysis,"interaction science, 0.62361
+protein, 0.37531
+cell, 0.00012"
+e1180,Macrophage Inflammatory Assay,"interaction science, 0.99850
+interaction science, 0.00015
+cell, 0.00015"
+e1183,Wnt Reporter Activity Assay,"anatomical structure, 0.51405
+interaction science, 0.48260
+botany, 0.00037"
+e122,Intracellular Cytokine (INF-gamma) Staining Assay,"interaction science, 0.54422
+interaction science, 0.44998
+cell, 0.00064"
+e1235,Gentamicin Protection Assay to Determine Bacterial Survival within Macrophages,"interaction science, 0.99524
+protein, 0.00048
+interaction science, 0.00048"
+e1236,Dimethylmethylene Blue Assay (DMMB),"cell, 0.99369
+protein, 0.00063
+botany, 0.00063"
+e1287,Fractionation by Ultracentrifugation of Gram Negative Cytoplasmic and Membrane Proteins,"protein, 0.78754
+interaction science, 0.13022
+botany, 0.08052"
+e1289,Analysis of Intestinal Permeability in Mice,"botany, 0.35128
+protein, 0.33789
+protein, 0.30612"
+e1295,Infectious Focus Assays and Multiplicity of Infection (MOI) Calculations for Alpha-herpesviruses,"interaction science, 0.99821
+interaction science, 0.00018
+protein, 0.00018"
+e1308,Minimal Inhibitory Concentration (MIC) Assay for Acinetobacter baumannii,"interaction science, 0.99638
+botany, 0.00036
+protein, 0.00036"
+e1374,Analysis of Protein Stability by the Cycloheximide Chase Assay,"interaction science, 0.50882
+protein, 0.48628
+interaction science, 0.00054"
+e1428,RNA Isolation from Synechocystis,"protein, 0.99830
+interaction science, 0.00017
+cell, 0.00017"
+e144,Mouse Embryonic Stem Cell Differentiation to Hematopoietic Precursors,"interaction science, 0.99793
+cell, 0.00021
+protein, 0.00021"
+e1467,Measurement of Chlorophyll a and Carotenoids Concentration in Cyanobacteria,"interaction science, 0.99531
+protein, 0.00047
+botany, 0.00047"
+e1471,Murine Liver Myeloid Cell Isolation Protocol,"cell, 0.99902
+protein, 0.00010
+interaction science, 0.00010"
+e1569,Isolation of Rhizosphere Bacterial Communities from Soil,"botany, 0.99874
+protein, 0.00013
+cell, 0.00013"
+e16,Spot Assay for Yeast,"interaction science, 0.82449
+botany, 0.16312
+protein, 0.00138"
+e162,Alcian Blue – Alizarin Red Staining of Mouse Skeleton,"interaction science, 0.99456
+interaction science, 0.00054
+cell, 0.00054"
+e172,"Culture, Differentiation and Transfection of C2C12 Myoblasts","interaction science, 0.99203
+cell, 0.00080
+botany, 0.00080"
+e1797,Preparation and Immunofluorescence Staining of the Trachea in Drosophila Larvae and Pupae,"interaction science, 0.99924
+food, 0.00008
+cell, 0.00008"
+e186,Analysis of Mouse Liver Glycogen Content,"anatomical structure, 0.57754
+cell, 0.41924
+protein, 0.00036"
+e187,Clonogenic Assay,"interaction science, 0.36338
+interaction science, 0.33780
+botany, 0.29567"
+e191,c-Fos and Arc Immunohistochemistry on Rat Cerebellum,"protein, 0.99730
+cell, 0.00027
+interaction science, 0.00027"
+e1912,BODIPY 493/503 Staining of Neutral Lipid Droplets for Microscopy and Quantification by Flow Cytometry,"interaction science, 0.99817
+interaction science, 0.00018
+anatomical structure, 0.00018"
+e195,Propidium Iodide Staining of Cells for FACS Analysis,"interaction science, 0.64995
+interaction science, 0.34233
+protein, 0.00086"
+e1984,Sulforhodamine B (SRB) Assay in Cell Culture to Investigate Cell Proliferation,"botany, 0.58057
+interaction science, 0.41804
+interaction science, 0.00015"
+e2045,Vascular Smooth Muscle Cell Isolation and Culture from Mouse Aorta,"cell, 0.99936
+interaction science, 0.00006
+interaction science, 0.00006"
+e212,In vitro Protein Kinase Assay Using Yeast Sch9,"interaction science, 0.72331
+protein, 0.27190
+interaction science, 0.00053"
+e220,Soft–Agar colony Formation Assay,"interaction science, 0.48201
+cell, 0.18248
+botany, 0.14575"
+e2273,In vitro Assays for Measuring Endothelial Permeability by Transwells and Electrical Impedance Systems,"botany, 0.82116
+interaction science, 0.17720
+interaction science, 0.00018"
+e235,Hippocampal Neuron Dissociation Transfection and Culture in Microfluidics Chambers,"interaction science, 0.99798
+cell, 0.00020
+protein, 0.00020"
+e247,Senescence Associated β-galactosidase Staining,"interaction science, 0.61456
+anatomical structure, 0.38193
+interaction science, 0.00039"
+e250,Co-immunoprecipitation in Yeast,"protein, 0.99793
+interaction science, 0.00021
+cell, 0.00021"
+e2505,Superoxide Dismutase (SOD) and Catalase (CAT) Activity Assay  Protocols for Caenorhabditis elegans,"anatomical structure, 0.99909
+protein, 0.00009
+interaction science, 0.00009"
+e251,Ribosome Fractionation in Yeast,"protein, 0.99784
+interaction science, 0.00022
+cell, 0.00022"
+e252,Minimum Inhibitory Concentration (MIC) Assay for Antifungal Drugs,"interaction science, 0.99673
+protein, 0.00033
+interaction science, 0.00033"
+e260,In vitro Human Umbilical Vein Endothelial Cells (HUVEC) Tube-formation Assay,"interaction science, 0.51213
+interaction science, 0.48566
+cell, 0.00025"
+e261,In vivo Matrigel Plug Angiogenesis Assay,"interaction science, 0.99605
+protein, 0.00040
+food, 0.00040"
+e263,Detection of Hydrogen Peroxide by DAB Staining in Arabidopsis Leaves Updated,"botany, 0.99754
+interaction science, 0.00025
+interaction science, 0.00025"
+e2763,Microbial Mutagenicity Assay: Ames Test,"botany, 0.99870
+cell, 0.00013
+protein, 0.00013"
+e3089,"Use of Gas Chromatography to Quantify Short Chain Fatty Acids in the Serum, Colonic Luminal Content and Feces of Mice","botany, 0.99843
+protein, 0.00016
+cell, 0.00016"
+e3097,Genome-wide Estimation of Evolutionary Distance and Phylogenetic Analysis of Homologous Genes,"gene, 0.99894
+botany, 0.00011
+protein, 0.00011"
+e313,Detection of Intracellular Reactive Oxygen Species (CM-H2DCFDA),"interaction science, 0.79428
+interaction science, 0.20363
+protein, 0.00023"
+e314,"Isolation, Purification, and Culture of Primary Murine Microglia Cells","cell, 0.99836
+interaction science, 0.00016
+interaction science, 0.00016"
+e322,In vitro Culture of Human PBMCs,"interaction science, 0.99590
+protein, 0.00041
+interaction science, 0.00041"
+e323,Isolation of Human PBMCs,"interaction science, 0.43247
+protein, 0.39379
+protein, 0.16654"
+e325,In vitro Tumorsphere Formation Assays,"interaction science, 0.71872
+gene, 0.15544
+interaction science, 0.12282"
+e327,Organotypic Slice Culture of Embryonic Brain Sections,"protein, 0.53929
+protein, 0.21297
+interaction science, 0.21297"
+e3295,CRISPR/Cas9 + AAV-mediated Intra-embryonic Gene Knocking in Mice,"interaction science, 0.98964
+protein, 0.00938
+protein, 0.00011"
+e3298,Electron Microscopy Sample Preparation Protocol Enabling Nano-to-mesoscopic Mapping of Cellular Connectomes and Their Habitats in Human Tissues and Organs,"anatomical structure, 0.99963
+interaction science, 0.00004
+botany, 0.00004"
+e3303,A Protocol to Map the Spatial Proteome Using HyperLOPIT in Saccharomyces cerevisiae,"protein, 0.99972
+interaction science, 0.00003
+botany, 0.00003"
+e3312,Axon-seq for in Depth Analysis of the RNA Content of Neuronal Processes,"interaction science, 0.99945
+protein, 0.00006
+protein, 0.00006"
+e3313,Isolation and Culture of Single Myofiber and Immunostaining of Satellite Cells from Adult C57BL/6J Mice,"botany, 0.78937
+interaction science, 0.20970
+interaction science, 0.00010"
+e332,Mouse Cochlear Whole Mount Immunofluorescence,"protein, 0.63449
+interaction science, 0.36376
+anatomical structure, 0.00019"
+e3327,Tensile Testing Assay for the Measurement of Tissue Stiffness in Arabidopsis Inflorescence Stem,"interaction science, 0.99915
+botany, 0.00008
+cell, 0.00008"
+e3344,Non-invasive Quantification of Cell Wall Porosity by Fluorescence Quenching Microscopy,"interaction science, 0.96288
+botany, 0.03590
+anatomical structure, 0.00014"
+e3350,Co-culture of Human Stem Cell Derived Neurons and Oligodendrocyte Progenitor Cells,"interaction science, 0.94411
+botany, 0.05519
+protein, 0.00008"
+e3355,"PEG-mediated, Stable, Nuclear and Chloroplast Transformation of Cyanidioschizon merolae","botany, 0.99830
+interaction science, 0.00017
+protein, 0.00017"
+e3382,ATAC-seq on Sorted Adult Mouse Neurons,"brain, 0.99674
+interaction science, 0.00033
+interaction science, 0.00033"
+e3386,3D Organoid Formation from the Murine Salivary Gland Cell Line SIMS,"interaction science, 0.99868
+interaction science, 0.00013
+cell, 0.00013"
+e3387,Antisense Oligodeoxynucleotide Perfusion Blocks Gene Expression of Synaptic Plasticity-related Proteins without Inducing Compensation in Hippocampal Slices,"protein, 0.99983
+interaction science, 0.00002
+protein, 0.00002"
+e3393,Use of the Vsoc-maze to Study Sociability and Preference for Social Novelty in Rodents,"protein, 0.99854
+botany, 0.00015
+interaction science, 0.00015"
+e3397,Intracerebral Injection of Streptozotocin to Model Alzheimer Disease in Rats,"botany, 0.98332
+food, 0.01586
+protein, 0.00009"
+e3398,Cell Wall Compositional Analysis of Rice Culms,"cell, 0.99873
+protein, 0.00013
+interaction science, 0.00013"
+e3399,Non-aqueous Fractionation (NAF) for Metabolite Analysis in Subcellular Compartments of Arabidopsis Leaf Tissues,"cell, 0.99943
+protein, 0.00006
+botany, 0.00006"
+e3402,"Visualization of Nitric Oxide, Measurement of Nitrosothiols Content, Activity of NOS and NR in Wheat Seedlings","botany, 0.92061
+interaction science, 0.04499
+anatomical structure, 0.03362"
+e3406,Optogenetic Food Odor Avoidance Assay,"food, 0.99943
+interaction science, 0.00006
+cell, 0.00006"
+e3407,Probabilistic Models for Predicting Mutational Routes to New Adaptive Phenotypes,"botany, 0.99923
+protein, 0.00008
+anatomical structure, 0.00008"
+e3408,Isolation and Imaging of His- and RFP-tagged Amyloid-like Proteins from Caenorhabditis elegans by TEM and SIM,"protein, 0.99898
+protein, 0.00010
+interaction science, 0.00010"
+e3415,A Mismatch-tolerant RT-LAMP Method for Molecular Diagnosis of Highly Variable Viruses,"protein, 0.99865
+botany, 0.00013
+interaction science, 0.00013"
+e3417,Differentiation of Mouse Embryonic Stem Cells to Neuronal Cells  Using Hanging Droplets and Retinoic Acid,"interaction science, 0.58863
+botany, 0.41027
+protein, 0.00012"
+e3420,"Using Imaging Flow Cytometry to Characterize Extracellular Vesicles Isolated from Cell Culture Media, Plasma or Urine","interaction science, 0.99790
+protein, 0.00021
+protein, 0.00021"
+e3424,SarkoSpin: A Technique for Biochemical Isolation and Characterization  of Pathological TDP-43 Aggregates,"brain, 0.68099
+protein, 0.31817
+cell, 0.00009"
+e3427,Isolation and Quantification of Metabolite Levels in Murine Tumor Interstitial Fluid by LC/MS,"protein, 0.99955
+protein, 0.00004
+interaction science, 0.00004"
+e3430,ELISA Based Protein Ubiquitylation Measurement,"food, 0.59896
+protein, 0.21537
+interaction science, 0.18434"
+e3433,Labeling and Isolation of Fluorouracil Tagged RNA by Cytosine Deaminase Expression,"interaction science, 0.99902
+protein, 0.00010
+protein, 0.00010"
+e3434,Method for Assessing Virulence of Colletotrichum higginsianum on Arabidopsis thaliana Leaves Using Automated Lesion Area Detection and Measurement,"interaction science, 0.99856
+botany, 0.00014
+interaction science, 0.00014"
+e3435,Determination of Chromatin Accessibility in Drosophila Midgut Enterocytes by in situ 5mC Labeling,"interaction science, 0.99851
+protein, 0.00015
+botany, 0.00015"
+e3436,Gallyas Silver Impregnation of Myelinated Nerve Fibers,"anatomical structure, 0.99851
+interaction science, 0.00015
+interaction science, 0.00015"
+e431,Flow Cytometric Detection of Reactive Oxygen Species,"interaction science, 0.99459
+botany, 0.00054
+interaction science, 0.00054"
+e49,Culture and Detection of Mycobacterium tuberculosis (MTB) and Mycobacterium bovis (BCG),"interaction science, 0.90327
+interaction science, 0.09124
+cell, 0.00061"
+e68,Isolation and Culture of Mouse Bone Marrow-derived Macrophages (BMM’phi’),"interaction science, 0.47252
+anatomical structure, 0.30824
+cell, 0.13416"
+e689,Cell Isolation of Spleen Mononuclear Cells,"protein, 0.48191
+interaction science, 0.35728
+protein, 0.15696"
+e754,Subcellular Fractionation of Cultured Human Cell Lines,"protein, 0.61588
+cell, 0.22860
+interaction science, 0.15295"
+e786,Phalloidin Staining and Immunohistochemistry of Zebrafish Embryos,"interaction science, 0.99861
+protein, 0.00014
+interaction science, 0.00014"
+e834,Whole Spleen Flow Cytometry Assay,"interaction science, 0.99769
+interaction science, 0.00023
+protein, 0.00023"
+e859,Bronchoalveolar Lavage and Lung Tissue Digestion,"cell, 0.99799
+interaction science, 0.00020
+interaction science, 0.00020"
+e888,Colony Immunoblotting Assay for Detection of Bacterial Cell-surface or Extracellular Proteins,"botany, 0.98947
+protein, 0.00911
+interaction science, 0.00016"
+e928,In vitro Protein Ubiquitination Assays,"protein, 0.84090
+protein, 0.15718
+interaction science, 0.00021"
+e954,Bacterial Counts in Spleen,"protein, 0.66521
+interaction science, 0.29540
+cell, 0.02493"
+e959,Immunoplaque Assay (Influenza Virus),"protein, 0.66866
+interaction science, 0.32225
+interaction science, 0.00101"
+e976,Harvest and Culture of Mouse Peritoneal Macrophages,"cell, 0.99662
+interaction science, 0.00034
+interaction science, 0.00034"
+e977,Assay to Evaluate Vascular Permeability Induction in Mice,"protein, 0.99721
+interaction science, 0.00028
+cell, 0.00028"
+e99,Transwell Cell Migration Assay Using Human Breast Epithelial Cancer Cell,"interaction science, 0.99667
+interaction science, 0.00033
+cell, 0.00033"
+e995,Preparation of Outer Membrane Vesicle from Escherichia coli,"protein, 0.50210
+brain, 0.40632
+interaction science, 0.08735"
