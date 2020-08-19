@@ -1,0 +1,782 @@
+pr_id,title,categories,Topics Predicted,max similarity,min similarity,mean similarity,median similarity
+e1029,ADCC Assay Protocol,"Immunology
+Cytotoxicity","protein
+biological process
+process
+carbon dioxide transmembrane transport
+death
+cellular response to carbon dioxide
+response to carbon dioxide",1.4403615823901665,0.9295359586241757,1.184948770507171,1.184948770507171
+e1072,Catalase Activity Assay in Candida glabrata,"Activity
+Microbiology
+Biochemistry
+Protein","botany
+protein
+chemistry
+chemical substance
+chemical compound
+group or class of proteins
+cell type",3.6375861597263857,1.55814461804655,2.4407132240308744,2.283561059175281
+e1077,RNA Isolation and Northern Blot Analysis,"Molecular Biology
+Microbiology
+RNA","protein
+biological process
+process
+chemical compound
+chemical substance
+chemistry
+science",2.538973871058276,2.0281482472922856,2.1984234552142823,2.0281482472922856
+e1090,Flow Cytometric Analysis of Autophagic Activity with Cyto-ID Staining in Primary Cells,Microbiology,"interaction science
+chemical compound
+process
+biological process
+glucose
+concept
+interaction science",1.3350010667323402,1.3350010667323402,1.3350010667323402,1.3350010667323402
+e1136,Preparation of Parasite Protein Extracts and Western Blot Analysis,"Microbiology
+Biochemistry
+Protein","interaction science
+protein
+chemical compound
+materials science
+protein
+technology
+cell biology",3.6375861597263857,0.8649974374866046,1.7891936782331983,0.8649974374866046
+e1180,Macrophage Inflammatory Assay,"Macrophage
+Cytokine
+Immunology","interaction science
+protein
+group or class of proteins
+psychology
+pharmacology
+cell type
+area of mathematics",2.9444389791664407,1.072636802264849,2.185349884163189,2.538973871058276
+e1183,Wnt Reporter Activity Assay,"Development
+Ligand
+Stem Cell","anatomical structure
+interaction science
+chemical compound
+carbon dioxide
+cell type
+gas
+cell",1.6916760106710724,0.9295359586241757,1.318737678675863,1.3350010667323402
+e122,Intracellular Cytokine (INF-gamma) Staining Assay,"Biochemistry
+Immunology
+Protein","interaction science
+interaction science
+cell type
+cell
+chemical compound
+cytology
+anatomical structure",2.2512917986064953,1.6916760106710724,1.9295981665919661,1.845826690498331
+e1235,Gentamicin Protection Assay to Determine Bacterial Survival within Macrophages,"Microbiology
+Immunology
+General","interaction science
+chemical compound
+chemical substance
+L-Glutamine
+medication
+cell type
+water",1.072636802264849,0.8043728156701697,0.9140023518072078,0.8649974374866046
+e1236,Dimethylmethylene Blue Assay (DMMB),"Glycoprotein
+Polysaccharide
+Carbohydrate
+Biochemistry","cell
+glycine
+chemical substance
+medication
+chemical compound
+water
+dihydrogen chalcogenide",2.2512917986064953,0.8649974374866046,1.7475660434709293,1.9369874688953082
+e1287,Fractionation by Ultracentrifugation of Gram Negative Cytoplasmic and Membrane Proteins,"Microbiology
+Biochemistry
+Protein","protein
+protein
+anthropology
+chemical compound
+chemical substance
+biopolymer
+pharmacology",3.6375861597263857,1.6916760106710724,2.391696286965263,1.845826690498331
+e1295,Infectious Focus Assays and Multiplicity of Infection (MOI) Calculations for Alpha-herpesviruses,"Virus
+Microbiology","interaction science
+chemical substance
+cell
+chemical compound
+cytology
+cell type
+taxon",2.538973871058276,1.4403615823901665,1.9896677267242213,1.9896677267242213
+e1308,Minimal Inhibitory Concentration (MIC) Assay for Acinetobacter baumannii,Microbiology,"interaction science
+visual perception
+psychology terminology
+behavior
+biological process
+eye
+occupation",1.072636802264849,1.072636802264849,1.072636802264849,1.072636802264849
+e1374,Analysis of Protein Stability by the Cycloheximide Chase Assay,"Molecular Biology
+Synthesis
+Biochemistry
+Detection
+Protein","interaction science
+protein
+protein
+chemical compound
+biological process
+chemical substance
+specialty",3.6375861597263857,0.9295359586241757,1.7528994422390078,1.2396908869280152
+e1428,RNA Isolation from Synechocystis,"Molecular Biology
+Microbiology
+RNA","protein
+process
+biological process
+chemical compound
+occurrence
+technique
+cell",2.538973871058276,1.1526795099383855,1.6147776303116823,1.1526795099383855
+e144,Mouse Embryonic Stem Cell Differentiation to Hematopoietic Precursors,Stem Cell,"interaction science
+chemical substance
+physics
+product
+chemical compound
+water
+cell type",1.55814461804655,1.55814461804655,1.55814461804655,1.55814461804655
+e1467,Measurement of Chlorophyll a and Carotenoids Concentration in Cyanobacteria,"Chlorophyll
+Carotenoid
+Microbiology
+Biochemistry","interaction science
+chemical compound
+photon
+type of quantum particle
+methanol
+sociology
+mathematical analysis",2.2512917986064953,1.6916760106710724,1.8701176276117426,1.7687513505847017
+e1471,Murine Liver Myeloid Cell Isolation Protocol,Immunology,"cell
+biology
+biological process
+life
+science
+organism
+cell biology",2.0281482472922856,2.0281482472922856,2.0281482472922856,2.0281482472922856
+e1569,Isolation of Rhizosphere Bacterial Communities from Soil,"Bacterium
+Microbiology","botany
+construction
+agriculture
+biology
+science
+intentional human action
+economic branch",2.9444389791664407,1.1526795099383855,2.048559244552413,2.048559244552413
+e16,Spot Assay for Yeast,Microbiology,"interaction science
+chemical compound
+cell type
+chemical substance
+ethanol
+cell
+water",0.8649974374866046,0.8649974374866046,0.8649974374866046,0.8649974374866046
+e162,Alcian Blue – Alizarin Red Staining of Mouse Skeleton,Morphogenesis,"interaction science
+chemical substance
+chemical compound
+medication
+chemistry
+ethanol
+acetic acid",1.4403615823901665,1.4403615823901665,1.4403615823901665,1.4403615823901665
+e172,"Culture, Differentiation and Transfection of C2C12 Myoblasts","Molecular Biology
+DNA","interaction science
+cell
+cell line
+cell biology
+cytology
+cell type
+unit",2.538973871058276,1.1526795099383855,1.8458266904983307,1.8458266904983307
+e1797,Preparation and Immunofluorescence Staining of the Trachea in Drosophila Larvae and Pupae,"Morphogenesis
+Metamorphosis","interaction science
+chemical substance
+physics
+philosophy
+protein
+anatomical structure
+behavioural sciences",1.55814461804655,1.4403615823901665,1.4992531002183582,1.4992531002183582
+e186,Analysis of Mouse Liver Glycogen Content,"Carbohydrate
+Glycogen
+Biochemistry","anatomical structure
+chemical compound
+chemical substance
+cell
+water
+carbon dioxide
+glucose",2.2512917986064953,0.8649974374866046,1.6540386421971436,1.845826690498331
+e187,Clonogenic Assay,Cell death,"chemistry
+interaction science
+communication medium
+pharmacology
+physics
+media history
+chemical substance",1.2396908869280152,1.2396908869280152,1.2396908869280152,1.2396908869280152
+e191,c-Fos and Arc Immunohistochemistry on Rat Cerebellum,"Morphogenesis
+Neuroscience","protein
+chemical substance
+chemistry
+anatomical structure
+chemical compound
+product
+protein",1.845826690498331,1.4403615823901665,1.6430941364442488,1.6430941364442488
+e1912,BODIPY 493/503 Staining of Neutral Lipid Droplets for Microscopy and Quantification by Flow Cytometry,"Biochemistry
+Lipid","interaction science
+chemistry
+chemical compound
+L-Glutamine
+science
+software
+biological process",2.538973871058276,2.2512917986064953,2.3951328348323857,2.3951328348323857
+e195,Propidium Iodide Staining of Cells for FACS Analysis,Nucleic acid,"interaction science
+chemical compound
+ethanol
+biological process
+DNA
+DNA transport
+DNA metabolic process",2.2512917986064953,2.2512917986064953,2.2512917986064953,2.2512917986064953
+e2045,Vascular Smooth Muscle Cell Isolation and Culture from Mouse Aorta,Angiogenesis,"cell
+chemical substance
+chemical compound
+protein
+physics
+anatomical structure
+cell type",1.4403615823901665,1.4403615823901665,1.4403615823901665,1.4403615823901665
+e212,In vitro Protein Kinase Assay Using Yeast Sch9,"Activity
+Molecular Biology
+Microbiology
+Biochemistry
+Expression
+Protein","interaction science
+chemical compound
+protein
+cell type
+sodium lauryl sulfate
+sirolimus
+gel",3.6375861597263857,1.3350010667323402,2.2288887589340733,1.971483904638784
+e2273,In vitro Assays for Measuring Endothelial Permeability by Transwells and Electrical Impedance Systems,"Transport
+Microbiology","botany
+chemistry
+materials science
+interaction science
+chemical compound
+organic chemistry
+branch of science",2.0281482472922856,1.2396908869280152,1.6339195671101505,1.6339195671101505
+e235,Hippocampal Neuron Dissociation Transfection and Culture in Microfluidics Chambers,Neuroscience,"interaction science
+chemical substance
+product
+medication
+chemical compound
+water
+ethanol",0.8043728156701697,0.8043728156701697,0.8043728156701697,0.8043728156701697
+e247,Senescence Associated β-galactosidase Staining,Cell death,"interaction science
+anatomical structure
+concept
+heart arrhythmia
+medical finding
+tachycardia
+mathematical concept",1.2396908869280152,1.2396908869280152,1.2396908869280152,1.2396908869280152
+e250,Co-immunoprecipitation in Yeast,"Interaction
+Microbiology
+Biochemistry
+Protein","protein
+cell
+cytology
+cell type
+cellular component
+anthropology
+ribonucleoprotein",3.6375861597263857,1.1526795099383855,2.2552288878485296,2.1153249408646744
+e2505,Superoxide Dismutase (SOD) and Catalase (CAT) Activity Assay  Protocols for Caenorhabditis elegans,"Activity
+Microbiology
+Biochemistry
+Protein","anatomical structure
+chemistry
+branch of science
+area of mathematics
+chemical substance
+food processing
+biology",2.9444389791664407,1.3350010667323402,2.211640541062336,2.283561059175281
+e251,Ribosome Fractionation in Yeast,"Microbiology
+Biochemistry
+Protein","protein
+process
+biological process
+chemical substance
+water
+product
+intentional human action",3.6375861597263857,0.9985288301111273,1.8782146066495466,0.9985288301111273
+e252,Minimum Inhibitory Concentration (MIC) Assay for Antifungal Drugs,Microbiology,"interaction science
+area of mathematics
+chemical substance
+mathematics
+product
+science
+cell",2.0281482472922856,2.0281482472922856,2.0281482472922856,2.0281482472922856
+e260,In vitro Human Umbilical Vein Endothelial Cells (HUVEC) Tube-formation Assay,Angiogenesis,"interaction science
+interaction science
+chemical compound
+group or class of proteins
+anatomical structure
+cell type
+cell biology",1.4403615823901665,1.4403615823901665,1.4403615823901665,1.4403615823901665
+e261,In vivo Matrigel Plug Angiogenesis Assay,Angiogenesis,"interaction science
+formaldehyde
+chemical compound
+carbon
+formaldehyde metabolic process
+formaldehyde catabolic process
+formaldehyde biosynthetic process",1.4403615823901665,1.4403615823901665,1.4403615823901665,1.4403615823901665
+e263,Detection of Hydrogen Peroxide by DAB Staining in Arabidopsis Leaves Updated,Biochemistry,"botany
+chemical substance
+physics
+water
+materials science
+colourant
+product",2.0281482472922856,2.0281482472922856,2.0281482472922856,2.0281482472922856
+e2763,Microbial Mutagenicity Assay: Ames Test,"Molecular Biology
+DNA
+Microbiology
+Mutagenesis","botany
+chemical compound
+chemical substance
+chemistry
+protein
+L-leucine
+L-Histidine",2.538973871058276,1.2396908869280152,1.9587403131427155,2.0281482472922856
+e3089,"Use of Gas Chromatography to Quantify Short Chain Fatty Acids in the Serum, Colonic Luminal Content and Feces of Mice","Mouse
+Mammal
+Microbiology
+Immunology","botany
+chemistry
+chemical substance
+specialty
+chemical compound
+software
+organic chemistry",2.0281482472922856,0.8649974374866046,1.4529022943855174,1.4592317463815898
+e3097,Genome-wide Estimation of Evolutionary Distance and Phylogenetic Analysis of Homologous Genes,Genomics,"gene
+branch of science
+science
+automation
+mathematics
+construction
+cell biology",1.845826690498331,1.845826690498331,1.845826690498331,1.845826690498331
+e313,Detection of Intracellular Reactive Oxygen Species (CM-H2DCFDA),Biochemistry,"interaction science
+cell
+cell biology
+chemical compound
+cytology
+life
+biological process",1.6916760106710724,1.6916760106710724,1.6916760106710724,1.6916760106710724
+e314,"Isolation, Purification, and Culture of Primary Murine Microglia Cells","Glial cell
+Immunology","cell
+cell
+cell biology
+cytology
+cell type
+tissue
+neuroscience",1.845826690498331,1.3350010667323402,1.5904138786153355,1.5904138786153355
+e322,In vitro Culture of Human PBMCs,"Lymphocyte
+Immunology","interaction science
+anthropology
+interaction science
+human
+immunology
+culture
+communication medium",3.6375861597263857,0.9295359586241757,2.283561059175281,2.283561059175281
+e323,Isolation of Human PBMCs,"Lymphocyte
+Immunology","cell
+anthropology
+cytology
+human
+interaction science
+human body
+blood",1.845826690498331,1.3350010667323402,1.5904138786153355,1.5904138786153355
+e325,In vitro Tumorsphere Formation Assays,Self-renewal,"interaction science
+cell type
+cell
+chemical substance
+anatomical structure
+unit
+chemical compound",1.1526795099383855,1.1526795099383855,1.1526795099383855,1.1526795099383855
+e327,Organotypic Slice Culture of Embryonic Brain Sections,"Neuron
+Development
+Neuroscience","protein
+chemical substance
+medication
+L-Glutamine
+pharmacology
+water
+chemical compound",1.6916760106710724,0.9985288301111273,1.3099652425700716,1.2396908869280152
+e3295,CRISPR/Cas9 + AAV-mediated Intra-embryonic Gene Knocking in Mice,"Regeneration
+Stem Cell","interaction science
+cell
+chemical compound
+genome
+construction
+biological process
+automation",2.9444389791664407,1.4403615823901665,2.192400280778304,2.192400280778304
+e3298,Electron Microscopy Sample Preparation Protocol Enabling Nano-to-mesoscopic Mapping of Cellular Connectomes and Their Habitats in Human Tissues and Organs,Electron microscopy,"anatomical structure
+branch of science
+science
+physics
+chemistry
+materials science
+medicine",0.9985288301111273,0.9985288301111273,0.9985288301111273,0.9985288301111273
+e3303,A Protocol to Map the Spatial Proteome Using HyperLOPIT in Saccharomyces cerevisiae,"Proteomics
+Microbiology","protein
+area of mathematics
+chemical substance
+science
+protein
+chemical compound
+automation",2.0281482472922856,1.845826690498331,1.9369874688953082,1.9369874688953082
+e3312,Axon-seq for in Depth Analysis of the RNA Content of Neuronal Processes,"Molecular Biology
+RNA
+Neuroscience
+Stem Cell","interaction science
+branch of science
+chemical substance
+product
+materials science
+specialty
+chemical compound",2.538973871058276,0.8649974374866046,1.4729129713039018,1.2438402883353628
+e3313,Isolation and Culture of Single Myofiber and Immunostaining of Satellite Cells from Adult C57BL/6J Mice,Stem Cell,"botany
+chemical compound
+chemical substance
+glycine
+gel
+medication
+anatomical structure",1.2396908869280152,1.2396908869280152,1.2396908869280152,1.2396908869280152
+e332,Mouse Cochlear Whole Mount Immunofluorescence,"Development
+Morphogenesis
+Neuroscience
+Immunofluorescence","protein
+interaction science
+anatomical structure
+bone
+anatomy
+branch of biology
+organ",2.0281482472922856,0.9295359586241757,1.3491436546044389,1.219445206250647
+e3327,Tensile Testing Assay for the Measurement of Tissue Stiffness in Arabidopsis Inflorescence Stem,Cell wall,"interaction science
+product
+marketing
+materials science
+software
+specialty
+property",1.4403615823901665,1.4403615823901665,1.4403615823901665,1.4403615823901665
+e3344,Non-invasive Quantification of Cell Wall Porosity by Fluorescence Quenching Microscopy,"Cell wall
+Microbiology","interaction science
+chemistry
+area of mathematics
+interaction science
+forensic science
+biology
+cytology",2.9444389791664407,0.8649974374866046,1.9047182083265226,1.9047182083265226
+e3350,Co-culture of Human Stem Cell Derived Neurons and Oligodendrocyte Progenitor Cells,"Myelin
+Neuroscience
+Stem Cell","interaction science
+cell
+cell type
+work
+taxon
+concept
+neuroscience",3.6375861597263857,1.072636802264849,2.0150746762411917,1.3350010667323402
+e3355,"PEG-mediated, Stable, Nuclear and Chloroplast Transformation of Cyanidioschizon merolae","Molecular Biology
+DNA
+Phycology
+Transformation","botany
+chemical compound
+DNA
+carbon dioxide
+chemical substance
+genome
+biological process",3.6375861597263857,0.9295359586241757,1.7515031327129638,1.219445206250647
+e3382,ATAC-seq on Sorted Adult Mouse Neurons,"Molecular Biology
+DNA
+Neuroscience","brain
+cell
+biology
+neuroscience
+genetics
+genome
+science",3.6375861597263857,1.072636802264849,2.5515539803858918,2.9444389791664407
+e3386,3D Organoid Formation from the Murine Salivary Gland Cell Line SIMS,"Morphogenesis
+Stem Cell","interaction science
+specialty
+science
+pharmacology
+interaction science
+mathematical analysis
+artificial intelligence",1.2396908869280152,1.072636802264849,1.1561638445964322,1.1561638445964322
+e3387,Antisense Oligodeoxynucleotide Perfusion Blocks Gene Expression of Synaptic Plasticity-related Proteins without Inducing Compensation in Hippocampal Slices,Neuroscience,"protein
+work
+science
+software
+concept
+area of mathematics
+chemical substance",1.845826690498331,1.845826690498331,1.845826690498331,1.845826690498331
+e3393,Use of the Vsoc-maze to Study Sociability and Preference for Social Novelty in Rodents,"Mouse
+Neuroscience","protein
+science
+research
+regional studies
+process
+area studies
+",1.845826690498331,0.8043728156701697,1.3250997530842503,1.3250997530842503
+e3397,Intracerebral Injection of Streptozotocin to Model Alzheimer Disease in Rats,Neuroscience,"botany
+science
+natural science
+branch of science
+chemical substance
+materials science
+chemical compound",2.0281482472922856,2.0281482472922856,2.0281482472922856,2.0281482472922856
+e3398,Cell Wall Compositional Analysis of Rice Culms,Cell wall,"cell
+chemical substance
+physics
+chemical compound
+polysaccharides
+natural science
+medication",1.6916760106710724,1.6916760106710724,1.6916760106710724,1.6916760106710724
+e3399,Non-aqueous Fractionation (NAF) for Metabolite Analysis in Subcellular Compartments of Arabidopsis Leaf Tissues,"Metabolite
+Leaf","cell
+chemical substance
+physics
+software
+natural science
+product
+chemical compound",1.845826690498331,1.55814461804655,1.7019856542724403,1.7019856542724403
+e3402,"Visualization of Nitric Oxide, Measurement of Nitrosothiols Content, Activity of NOS and NR in Wheat Seedlings","Fluorescence
+Nutrition
+Metabolism","botany
+chemistry
+chemical compound
+chemical substance
+process
+protein
+food processing",1.55814461804655,0.9295359586241757,1.348608398239092,1.55814461804655
+e3406,Optogenetic Food Odor Avoidance Assay,Neuroscience,"food
+science
+software
+chemical substance
+automation
+product
+sport",1.845826690498331,1.845826690498331,1.845826690498331,1.845826690498331
+e3407,Probabilistic Models for Predicting Mutational Routes to New Adaptive Phenotypes,"Genomics
+Microbiology
+Screening","botany
+protein
+area of mathematics
+chemistry
+specialty
+biological process
+interaction science",2.0281482472922856,1.6916760106710724,1.855216982820563,1.845826690498331
+e3408,Isolation and Imaging of His- and RFP-tagged Amyloid-like Proteins from Caenorhabditis elegans by TEM and SIM,"Imaging
+Protein
+Biochemistry
+Neuroscience","protein
+protein
+chemistry
+chemical substance
+science
+software
+product",3.6375861597263857,1.4403615823901665,2.3656870759182898,2.1924002807783034
+e3415,A Mismatch-tolerant RT-LAMP Method for Molecular Diagnosis of Highly Variable Viruses,"Molecular Biology
+Microbiology
+RNA","protein
+construction
+chemical substance
+process
+occurrence
+biological process
+taxon",2.2512917986064953,1.1526795099383855,1.5188836061610889,1.1526795099383855
+e3417,Differentiation of Mouse Embryonic Stem Cells to Neuronal Cells  Using Hanging Droplets and Retinoic Acid,"Differentiation
+Stem Cell","interaction science
+protein
+biological process
+botany
+chemical substance
+biological pathway
+chemical compound",1.4403615823901665,1.3350010667323402,1.3876813245612534,1.3876813245612534
+e3420,"Using Imaging Flow Cytometry to Characterize Extracellular Vesicles Isolated from Cell Culture Media, Plasma or Urine","Molecular Biology
+Protein","interaction science
+cell type
+chemical substance
+cell
+physics
+physical property
+anatomical structure",2.0281482472922856,2.0281482472922856,2.0281482472922856,2.0281482472922856
+e3424,SarkoSpin: A Technique for Biochemical Isolation and Characterization  of Pathological TDP-43 Aggregates,"Neuroscience
+Molecular Biology
+Biochemistry
+Detection
+Protein","brain
+protein
+chemical substance
+chemical compound
+biological process
+biochemistry
+automation",3.6375861597263857,1.2396908869280152,2.352936767019682,1.6916760106710724
+e3430,ELISA Based Protein Ubiquitylation Measurement,"Molecular Biology
+Biochemistry
+Protein","food
+chemical compound
+biological process
+chemistry
+chemical substance
+protein
+water",3.6375861597263857,2.0281482472922856,2.7349027593589823,2.538973871058276
+e3433,Labeling and Isolation of Fluorouracil Tagged RNA by Cytosine Deaminase Expression,"Molecular Biology
+RNA","interaction science
+branch of science
+chemical compound
+protein
+cell type
+branch of biology
+classification system",2.538973871058276,1.1526795099383855,1.8458266904983307,1.8458266904983307
+e3434,Method for Assessing Virulence of Colletotrichum higginsianum on Arabidopsis thaliana Leaves Using Automated Lesion Area Detection and Measurement,"Fungus
+Microbiology","interaction science
+software
+electronics
+science
+automation
+agriculture
+interaction science",2.0281482472922856,0.9985288301111273,1.5133385387017064,1.5133385387017064
+e3435,Determination of Chromatin Accessibility in Drosophila Midgut Enterocytes by in situ 5mC Labeling,"Molecular Biology
+DNA","interaction science
+cell
+taxon
+chemical compound
+cell type
+biological process
+genome",2.538973871058276,0.9985288301111273,1.7687513505847017,1.7687513505847017
+e3436,Gallyas Silver Impregnation of Myelinated Nerve Fibers,"Development
+Neuroscience","anatomical structure
+chemical substance
+chemistry
+chemical compound
+medication
+organic chemistry
+product",1.845826690498331,0.9985288301111273,1.422177760304729,1.422177760304729
+e431,Flow Cytometric Detection of Reactive Oxygen Species,Biochemistry,"interaction science
+chemical compound
+chemistry
+L-Cysteine
+biological process
+protein
+chemical substance",2.538973871058276,2.538973871058276,2.538973871058276,2.538973871058276
+e49,Culture and Detection of Mycobacterium tuberculosis (MTB) and Mycobacterium bovis (BCG),Microbiology,"interaction science
+water
+liquid water
+chemical compound
+glycerol
+medication
+molecular function",0.8043728156701697,0.8043728156701697,0.8043728156701697,0.8043728156701697
+e68,Isolation and Culture of Mouse Bone Marrow-derived Macrophages (BMM’phi’),Immunology,"interaction science
+cell type
+cell
+cytology
+anatomical structure
+tissue
+biological component",1.845826690498331,1.845826690498331,1.845826690498331,1.845826690498331
+e689,Cell Isolation of Spleen Mononuclear Cells,"Lymphocyte
+Immunology","protein
+cell type
+cell
+interaction science
+cytology
+protein
+anatomical structure",1.845826690498331,1.1526795099383855,1.4992531002183582,1.4992531002183582
+e754,Subcellular Fractionation of Cultured Human Cell Lines,"Fractionation
+Biochemistry
+Protein","protein
+cell
+cellular component
+cell type
+cytology
+group of cells
+tissue",3.6375861597263857,1.55814461804655,2.2958022628146693,1.6916760106710724
+e786,Phalloidin Staining and Immunohistochemistry of Zebrafish Embryos,"Morphogenesis
+Fluorescence","interaction science
+chemical substance
+physics
+chemistry
+protein
+chemical compound
+physical substance",1.4403615823901665,0.9295359586241757,1.184948770507171,1.184948770507171
+e834,Whole Spleen Flow Cytometry Assay,"Cytokine
+Immunology","interaction science
+chemical compound
+gel
+group or class of proteins
+formaldehyde
+protein
+taxon",2.9444389791664407,0.9295359586241757,1.9369874688953082,1.9369874688953082
+e859,Bronchoalveolar Lavage and Lung Tissue Digestion,Immunology,"cell
+life
+anatomical structure
+organism
+cell
+biological process
+concept",1.2396908869280152,1.2396908869280152,1.2396908869280152,1.2396908869280152
+e888,Colony Immunoblotting Assay for Detection of Bacterial Cell-surface or Extracellular Proteins,"Microbiology
+Biochemistry
+Protein","botany
+interaction science
+branch of science
+protein
+chemical compound
+media history
+physics",3.6375861597263857,2.0281482472922856,2.5646275514369856,2.0281482472922856
+e928,In vitro Protein Ubiquitination Assays,"Modification
+Interaction
+Activity
+Biochemistry
+Protein","protein
+protein
+biological process
+establishment of protein localization to spindle pole body
+establishment of protein localization to mitotic spindle pole body
+microtubule polymerization based protein transport
+microtubule polymerization based protein transport to cell tip cortex",3.6375861597263857,1.55814461804655,2.9444389791664403,3.6375861597263857
+e954,Bacterial Counts in Spleen,"Mouse
+Microbiology
+Immunology","protein
+biological process
+carbon dioxide
+carbon dioxide transmembrane transport
+cellular response to carbon dioxide
+response to carbon dioxide
+carbon dioxide transport",0.9985288301111273,0.8649974374866046,0.9310207420739691,0.9295359586241757
+e959,Immunoplaque Assay (Influenza Virus),"Fluorescence
+Microbiology","carbon dioxide
+chemical compound
+gas
+acidic oxide
+response to carbon dioxide
+cellular response to carbon dioxide
+carbon dioxide transmembrane transport",1.2396908869280152,0.8043728156701697,1.0220318512990925,1.0220318512990925
+e976,Harvest and Culture of Mouse Peritoneal Macrophages,"Macrophage
+Immunology","cell
+chemical compound
+carbon dioxide
+biological process
+cell type
+interaction science
+anatomical structure",1.3350010667323402,0.8649974374866046,1.0999992521094724,1.0999992521094724
+e977,Assay to Evaluate Vascular Permeability Induction in Mice,"Cytokine
+Mammal
+Microbiology
+Immunology","protein
+chemical compound
+chemistry
+anatomical structure
+cell type
+tissue
+organism substance",2.9444389791664407,1.072636802264849,1.9727626798054767,1.9369874688953082
+e995,Preparation of Outer Membrane Vesicle from Escherichia coli,"Microbiology
+Biochemistry
+Lipid","protein
+biopolymer
+protein
+cell
+polynucleotide
+biochemistry
+brain",3.6375861597263857,1.6916760106710724,2.6227453471519113,2.538973871058276
