@@ -144,8 +144,9 @@ cython_debug/
 .DS_Store
 .nosync
 
-# ignore pickled files for now
 *.pkl
+!protocols_dataframe.pkl
+**/text_summarization_models/distillbart_*
 
 # secret keys
 notebooks/secret.py
