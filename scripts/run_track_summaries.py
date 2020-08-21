@@ -1,13 +1,19 @@
 import argparse
+import joblib
 import logging
 import pickle
+import os
 
 import pandas as pd
 import torch
 
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
-from common import PROTOCOLS_FILE_PATH, OUTPUT_FORMATS, load_final_pipe, _write_json_contents
+from rdflib import BNode, Graph, Literal, Namespace, URIRef
+from rdflib.namespace import RDF, RDFS
+
+from common import PROTOCOLS_FILE_PATH, OUTPUT_FORMATS, RDF_FORMATS, load_final_pipe, _write_json_contents
+from herc_common.utils import EDMA, ITSRDF, NIF
 
 DEFAULT_DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
@@ -55,7 +61,7 @@ def compute_summaries(protocols, model_name):
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     return get_model_predictions(model, tokenizer, protocols)
 
-def show_summary_results(protocols_df, protocols, summaries, output, format):
+def show_summary_results(protocols_df, protocols, summaries, out_file, format):
     if format in RDF_FORMATS:
         show_protocols_graph_summaries(protocols_df, protocols, summaries, format, out_file)
     elif format == 'csv':
@@ -84,7 +90,7 @@ def create_protocols_summary_graph(protocols_df, protocols, summaries):
 
         summary_element = BNode()
         g.add((summary_element, RDF.type, NIF.Context))
-        g.add((summary_element, NIF.isString, summary))
+        g.add((summary_element, NIF.isString, Literal(summary)))
         g.add((context_element, NIF.inter, summary_element))
         g.add((collection_element, NIF.hasContext, context_element))
     return g
@@ -115,7 +121,7 @@ def show_protocols_graph_summaries(protocols_df, protocols, summaries, format, o
     else:
         print(g.serialize(format=format).decode("utf-8"))
 
-def show_protocols_json_results(protocols_df, protocols, summaries, out_file):
+def show_protocols_json_summaries(protocols_df, protocols, summaries, out_file):
     res = {}
     for idx, summary in enumerate(summaries):
         protocol_row = protocols_df.loc[idx]
@@ -144,7 +150,7 @@ def parseargs():
     parser = argparse.ArgumentParser(description="Run predictions for the protocol track dataset")
     parser.add_argument('-m', '--model', choices=SUMMARY_MODELS, help="Name of the file where the results will be saved. " +
         "If no output file is specified, results will be written to the console instead.",
-        nargs='?', default=None)
+        nargs='?', default='distillbart_cnn_protocols')
     parser.add_argument('-f', '--format', choices=OUTPUT_FORMATS, help="Output format of the results. " +
         "If no output format is specified, results are returned in JSON by default.",
         nargs='?', default='json')
@@ -156,11 +162,9 @@ def parseargs():
 def main(args):
     logger.info('Reading track dataset...')
     protocols_df = pd.read_pickle(PROTOCOLS_FILE_PATH)
-    logger.info('Loading topic extraction model...')
-    final_pipe = load_final_pipe()
-    protocols = protocols_df['full_text_cleaned'].values
+    protocols = protocols_df['full_text_no_abstract_cleaned'].values
     logger.info('Predicting topics...')
-    summaries = compute_summaries(protocols, args.model)final_pipe.transform(protocols)
+    summaries = compute_summaries(protocols, args.model)
     logger.info('Writting results...')
     show_summary_results(protocols_df, protocols, summaries, args.output, args.format)
 

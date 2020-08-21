@@ -25,9 +25,8 @@ OUTPUT_FORMATS = RDF_FORMATS | {'csv', 'json'}
 
 
 class BioProtocolScrapper():
-    def __init__(self, output_dir, throttle_time=.5,
+    def __init__(self, throttle_time=.5,
                  username=None, password=None):
-        self.output_dir = output_dir
         self.throttle_time = throttle_time
         if username and password:
             self.login(username, password)
@@ -38,9 +37,11 @@ class BioProtocolScrapper():
             id, content = self.fetch_url(url)
             res[id] = content
             time.sleep(self.throttle_time)
+        return res
 
     def fetch_url(self, url):
         id = url.split('/')[-1] if '/' in url else url
+        response = requests.get(url)
         return id, response.text
 
     def _login(self, user, password):

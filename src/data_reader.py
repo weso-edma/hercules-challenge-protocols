@@ -7,7 +7,7 @@ from .protocol import Protocol
 
 def optional(function):
     """ Return a default value if an exception is raised.
-    
+
     This decorator wraps the passed in function and
     returns an empty string if either an AttributeError
     or KeyError is raised.
@@ -52,7 +52,7 @@ def parse_categories(protocol_soup):
 @optional
 def parse_materials(protocol_soup):
     materials_element = _find_element(protocol_soup, "Materials")
-    return [material.text.strip() 
+    return [material.text.strip()
             for material in materials_element.find_next('ol').find_all('li')]
 
 def parse_equipment(protocol_soup):
@@ -66,6 +66,7 @@ def parse_procedure(protocol_soup):
             for procedure in procedure_element.find_next('ol').find_all('li', recursive=False)]
 
 def parse_protocol(protocol_html, protocol_id):
+    print(protocol_html)
     soup = BeautifulSoup(protocol_html, 'lxml') # use lxml parser to fix some broken tags
     return Protocol(protocol_id, parse_title(soup), parse_abstract(soup),
                     parse_materials(soup), parse_procedure(soup),
