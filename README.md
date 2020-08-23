@@ -108,4 +108,4 @@ python scripts/run_track_summaries.py -o results.ttl -f ttl
 ```
 
 ## Results obtained
-The results obtained for the track dataset can be found in the [script_results folder](./results/9_script_results). These results are provided in multiple formats (_.csv_, _.json_, _.jsonld_, and _.ttl_).
+The results obtained for the track dataset can be found in the [script_results folder](./results/9_scripts_results). These results are provided in multiple formats (_.csv_, _.json_, _.jsonld_, and _.ttl_).
