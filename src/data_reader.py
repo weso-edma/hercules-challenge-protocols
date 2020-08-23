@@ -66,7 +66,6 @@ def parse_procedure(protocol_soup):
             for procedure in procedure_element.find_next('ol').find_all('li', recursive=False)]
 
 def parse_protocol(protocol_html, protocol_id):
-    print(protocol_html)
     soup = BeautifulSoup(protocol_html, 'lxml') # use lxml parser to fix some broken tags
     return Protocol(protocol_id, parse_title(soup), parse_abstract(soup),
                     parse_materials(soup), parse_procedure(soup),
