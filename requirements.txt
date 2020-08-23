@@ -133,7 +133,7 @@ tokenizers==0.8.1.rc1
 tornado==6.0.4
 tqdm==4.47.0
 traitlets==4.3.3
-transformersr
+transformers
 typing-extensions==3.7.4.2
 urllib3==1.25.9
 wasabi==0.7.0
