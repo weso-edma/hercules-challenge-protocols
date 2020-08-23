@@ -72,7 +72,7 @@ python scripts/run_track_predictions.py -o results.ttl -f ttl
 The script _predict_protocol.py_ can be used to obtain the topics for a given protocol or list of protocols. The following parameters can be passed to the string:
 | Name | Description | Compulsory | Allowed Values |
 | ---- | ----------- | ---------- | ------ |
-| input | URL of the protocol to extract the topics from. If the --file flag is set, file with the urls of the protocols. | __Yes__ | Any PMC id or file. |
+| input | URL of the protocol to extract the topics from. If the --file flag is set, file with the urls of the protocols. | __Yes__ | Any protocol url or file. |
 | --isFile | If present, this flag indicates that the input passed to the script is a file with the ids of each protocols delimited by newlines. | No | True or False |
 | -o --output | Output format of the results. If no output format is specified, results are returned in JSON by default. | No | One of _csv_, _json_, _jsonld_, _n3_ or _ttl_ |
 | -f --format | Name of the file where the results will be saved. If no output file is specified, results will be written to the console instead. | No | Any valid filename. |
