@@ -6,7 +6,7 @@ Code related to the Experimental Protocols track from Hercules challenge
 * __notebooks__: Jupyter notebooks with the process taken for the creation and training of the topic extraction system.
 * __results__: Output of the notebooks and scripts from the system. This folder contains a variety of files (pickled models, dataframes, track output...).
 * __scripts__: Scripts provided to run the final system and obtain predictions for the track.
-* __src__: Track-specific source code regarding the parsing and handling of publications.
+* __src__: Track-specific source code regarding the parsing and handling of protocols.
 
 ## Dependencies
 In order to run the code from this repository, Python 3.7 or greater is required. Experiments were executed in Python 3.7.8, and that is the preferred version for the execution of the models. 
