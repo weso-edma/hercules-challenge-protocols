@@ -108,7 +108,7 @@ python scripts/run_track_summaries.py -o results.ttl -f ttl
 ```
 
 ## Using the demo API
-An API has been deployed at http://hercules-challenge.weso.computing.network where the different functionality of the system can be tested out without needing to manually run the scripts with Python.
+An API has been deployed at http://edma-challenge.compute.weso.network/ where the different functionality of the system can be tested out without needing to manually run the scripts with Python.
 
 For the protocols track, we provide the __api/protocol/topics__ GET endpoint to predict the topics of a given protocol. The following parameters can be sent in the JSON body:
 | Name | Description | Compulsory | Allowed Values |
